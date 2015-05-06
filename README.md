@@ -1,2 +1,2 @@
 # trafficSimulator
-Python uni project, application simulating traffic
+Python university project, application simulating traffic
