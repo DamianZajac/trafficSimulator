@@ -7,7 +7,7 @@ class Street:
 		self.up = up
 		self.down = down
 		
-	def print_header(self):	
+	def print_header(self):
 		print("Street Name\t|\tStreet Number\t|\tLeft\t|\tRight\t|\tUp\t|\tDown")
 		
 	def print_singular(self):
@@ -31,12 +31,39 @@ class Street:
 		return None
 		
 	def find_up(self):
-	if self.up != "X":
-		return self.up
-	return None
+		if self.up != "X":
+			return self.up
+		return None
 		
 	def find_down(self):
-	if self.down != "X":
-		return self.down
-	return None
+		if self.down != "X":
+			return self.down
+		return None
 		
+	def set_left_both(self, street_to_set):
+		self.left = street_to_set
+		street_to_set.set_right(self)
+	
+	def set_left(self, street_to_set):
+		self.left = street_to_set
+		
+	def set_right_both(self, street_to_set):
+		self.right = street_to_set
+		street_to_set.set_left(self)
+	
+	def set_right(self, street_to_set):
+		self.right = street_to_set
+		
+	def set_up_both(self, street_to_set):
+		self.up = street_to_set
+		street_to_set.set_down(self)
+	
+	def set_up(self, street_to_set):
+		self.up = street_to_set
+		
+	def set_down_both(self, street_to_set):
+		self.down = street_to_set
+		street_to_set.set_up(self)
+	
+	def set_down(self, street_to_set):
+		self.down = street_to_set
