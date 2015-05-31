@@ -9,7 +9,8 @@ It's a final project for Python Course at Jagiellonian University
 #import objects
 import generators
 #import gui
-#import core
+import core
+from random import choice
 
 if __name__ == "__main__":
     CAR_GEN = generators.car_generator.Car_Generator()
@@ -22,24 +23,35 @@ if __name__ == "__main__":
         STREET_LIST.append(STREET)
         STREET.print_multi()
         i += 1
-        if i > 50:
+        if i > 19:
             break
+    i = 0
     print "==Car generator test(using previously generated streets)=="
-    for CAR in CAR_GEN.get_car(STREET_LIST):
-        CAR_LIST.append(CAR)
-        CAR.print_multi()
+    for car in CAR_GEN.get_car(STREET_LIST):
+        CAR_LIST.append(car)
+        car.print_multi()
+        car.set_position(choice(STREET_LIST))
+        car.set_destination(choice(STREET_LIST))
         i += 1
-        if i > 70:
+        if i > 10:
             break
     print "==Street connections tests=="
-    STREET_LIST[0].set_left_both(STREET_LIST[1]).set_right_both(STREET_LIST[2])
-    STREET_LIST[0].set_down_both(STREET_LIST[3]).set_up_both(STREET_LIST[4]).print_singular()
-    STREET_LIST[1].set_left_both(STREET_LIST[5]).set_up_both(STREET_LIST[6]).print_multi()
-    print "==Lights on connected streets tests=="
-    STREET_LIST[0].get_lights().switch_lights(15)
-    STREET_LIST[1].get_lights().set_delays(5, 20).switch_lights(5)
-    print "==Car movement over connected streets tests=="
-    STREET_LIST[1].print_singular().get_lights().switch_lights(25).print_singular()
-    CAR_LIST[0].set_position(STREET_LIST[1]).print_singular()
-    CAR_LIST[0].move().print_singular().move().print_singular()
-    
+    STREET_LIST[0].set_right_both(STREET_LIST[1]).set_up_both(STREET_LIST[10])
+    STREET_LIST[2].set_up_both(STREET_LIST[1]).set_down_both(STREET_LIST[11])
+    STREET_LIST[3].set_left_both(STREET_LIST[1]).set_right_both(STREET_LIST[4])
+    STREET_LIST[14].set_down_both(STREET_LIST[13]).set_up_both(STREET_LIST[4])
+    STREET_LIST[5].set_down_both(STREET_LIST[4]).set_up_both(STREET_LIST[6])
+    STREET_LIST[6].set_left_both(STREET_LIST[7]).set_up_both(STREET_LIST[15])
+    STREET_LIST[6].set_right_both(STREET_LIST[12])
+    STREET_LIST[16].set_left_both(STREET_LIST[15]).set_right_both(STREET_LIST[17])
+    STREET_LIST[18].set_up_both(STREET_LIST[17]).set_left_both(STREET_LIST[12])
+    STREET_LIST[18].set_down_both(STREET_LIST[19])
+    STREET_LIST[8].set_right_both(STREET_LIST[7]).set_left_both(STREET_LIST[9])
+    STREET_LIST[10].set_up_both(STREET_LIST[9])
+    for street in STREET_LIST:
+        tab = [x for x in street.get_all() if x is not None]
+        print street, tab
+    NEW_GAME = core.game.Game()
+    NEW_GAME.set_street_list(STREET_LIST)
+    NEW_GAME.set_car_list(CAR_LIST)
+    NEW_GAME.run()
