@@ -10,7 +10,7 @@ class Car:
         self.position_to_move = None
         
     def print_header(self):    
-        print("Driver Name\t|\tPosition\t|\tLicence Plate")
+        print "Driver Name\t|\tPosition\t|\tLicence Plate"
         return self
         
     def print_singular(self):
@@ -19,7 +19,7 @@ class Car:
         return self
         
     def print_multi(self):
-        print("%s\t|\t%s\t|\t%s" % (self.driver, self.position, self.plate))
+        print "%s\t|\t%s\t|\t%s" % (self.driver, self.position, self.plate)
         return self
         
     def set_position(self, street):
@@ -64,15 +64,23 @@ class Car:
         if self.position.up == self.position_to_move:
             if self.position.is_crossroad() == False or self.position.get_lights().get_vertical_status():
                 direction = "down"
+            else:
+                print "Vertical lights are red, waiting for light change"
         elif self.position.right == self.position_to_move:
             if self.position.is_crossroad() == False or self.position.get_lights().get_horizontal_status():
                 direction = "left"
+            else:
+                print "Horizontal lights are red, waiting for light change"
         elif self.position.down == self.position_to_move:
             if self.position.is_crossroad() == False or self.position.get_lights().get_vertical_status():
                 direction = "up"
+            else:
+                print "Vertical lights are red, waiting for light change"
         elif self.position.left == self.position_to_move:
             if self.position.is_crossroad() == False or self.position.get_lights().get_horizontal_status():
                 direction = "right"
+            else:
+                print "Horizontal lights are red, waiting for light change"
         if direction != None:
             return_bool = True
             direction = self.position
