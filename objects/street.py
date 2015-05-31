@@ -1,7 +1,7 @@
 import traffic_light as Tr_Light
 
-class Street:
-    def __init__(self, street_name, street_number, left = None, right = None, up = None, down = None):
+class Street(object):
+    def __init__(self, street_name, street_number, left=None, right=None, up=None, down=None):
         self.street_name = street_name
         self.street_number = street_number
         self.left = left
@@ -26,6 +26,9 @@ class Street:
     def __repr__(self):
         return ("%s %s" % (self.street_name, self.street_number))
         
+    def get_all(self):
+        return [self.up, self.right, self.down, self.left]
+    
     def get_left(self):
         return self.left
         

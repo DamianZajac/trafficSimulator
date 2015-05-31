@@ -1,13 +1,16 @@
 from random import choice
 
-class Car:
-    def __init__(self, driver, position, plate = "KR 00000"):
+class Car(object):
+    def __init__(self, driver, position, plate="KR 00000"):
         self.driver = driver
         self.position = position
         self.plate = plate
         self.destination = None
         self.came_from = None
         self.position_to_move = None
+        
+    def __repr__(self):
+        return self.driver
         
     def print_header(self):    
         print "Driver Name\t|\tPosition\t|\tLicence Plate"
@@ -30,7 +33,7 @@ class Car:
         return self.position
 
     def set_destination(self, street):
-        self.destination = street.name
+        self.destination = street
         return self
         
     def get_destination(self, street):
@@ -41,9 +44,13 @@ class Car:
             return True
         return False
         
+    def did_car_move(self):
+        if self.position_to_move == None:
+            return True
+        return False
+        
     def get_moves(self):
-        helper_position = self.position
-        return [helper_position.get_left(), helper_position.get_right(), helper_position.get_up(), helper_position.get_down()]
+        return self.position.get_all()
         
     def move(self):
         possible_moves = self.get_moves()
@@ -57,7 +64,9 @@ class Car:
         if check:
             self.position = self.position_to_move
             self.came_from = came_from_where
+            self.position_to_move = None
         return self
+        
     def is_possible(self):
         direction = None
         return_bool = False

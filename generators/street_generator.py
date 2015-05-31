@@ -3,7 +3,7 @@ from os.path import dirname, abspath, join
 from random import choice, shuffle
 from objects import street
 
-class Street_Generator:
+class Street_Generator(object):
     def __init__(self):
         base_path = dirname(__file__)
         file_path = abspath(join(base_path, "..", "data", "street_names_list.txt"))

@@ -1,13 +1,16 @@
-class Traffic_Light:
+class Traffic_Light(object):
     GREEN = True
     RED = False
     
-    def __init__(self, street_parent, switch_delay_horizontal = 15, switch_delay_vertical = 15):
+    def __init__(self, street_parent, switch_delay_horizontal=15, switch_delay_vertical=15):
         self.street_parent = street_parent
         self.horizontal_light = Traffic_Light.GREEN
         self.vertical_light = Traffic_Light.RED
         self.switch_delay_horizontal = switch_delay_horizontal
         self.switch_delay_vertical = switch_delay_vertical
+        
+    def __repr__(self):
+        return "Lights on", self.street_parent, "street"
         
     def print_header(self):
         print("Street Parent\t|\tHorizontal\t|\tVertical")
@@ -24,6 +27,8 @@ class Traffic_Light:
         
     def switch_lights(self, timer):
         help_timer = timer
+        if help_timer == 0:
+            help_timer = self.switch_delay_horizontal
         while help_timer > 0:
             help_timer -= self.switch_delay_horizontal
             help_timer -= self.switch_delay_vertical
