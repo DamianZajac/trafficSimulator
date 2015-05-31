@@ -10,18 +10,18 @@
 
 Gdzie cyfry oznaczaj¹ poszczegolne ulice, które s¹ po³¹czone z s¹siednimi (góra, prawo, dó³, lewo)
 
-            15  16  17
+			15  16  17
 
-9   8   7   6   12  18
+9	8   7   6   12  18
 
-10          5       19
+10		  	5	   	19
 
 0   1   3   4
 
-    2       14
+	2	   	14
 
-    11      13
-    
+	11	  	13
+	
 Wypuszczane jest 10 samochodów, które wariuj¹ sobie po mieœcie, jeœli dotr¹ do celu, dodawany jest kolejny (obecnie do 200 samochodów)
 
 # Co ma zostaæ dodane/dorobione/jak to bêdzie wygl¹da³o/cokolwiek
