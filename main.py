@@ -49,3 +49,4 @@ if(__name__ == "__main__"):
 	
 	street_list[0].print_singular()
 	street_list[0].get_lights().print_singular().switch_lights().print_singular()
+	street_list[1].get_lights().print_singular()
