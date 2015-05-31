@@ -1,11 +1,11 @@
-Abrahama
+ï»¿Abrahama
 Agatowa
 Agawy
 Agrestowa
 Akacjowa
 Akademicka
-Albañska
-Albatrosów
+AlbaÅ„ska
+AlbatrosÃ³w
 Aleksandrowicza
 Aleksandry
 Algierska
@@ -14,7 +14,7 @@ Altanowa
 Amarantowa
 Amazonek
 Anczyca
-Andegaweñska
+AndegaweÅ„ska
 Andersena
 Andricia
 Andrusikiewicza
@@ -22,51 +22,51 @@ Andrychowska
 Anny Jagiellonki
 Antyczna
 Anusi
-Architektów
+ArchitektÃ³w
 Arciszewskiego
-Ariañska
+AriaÅ„ska
 Arktyczna
 Armii Krajowej
-Armii Kraków
-Arsena³
-Artystów
+Armii KrakÃ³w
+ArsenaÅ‚
+ArtystÃ³w
 Asnyka
-Astronautów
-Astronomów
-Augustiañska
+AstronautÃ³w
+AstronomÃ³w
+AugustiaÅ„ska
 Augustynka-Wichury
 Azaliowa
 Babiego Lata
 Babinicza
-Babiñskiego
-Bacewiczówny
+BabiÅ„skiego
+BacewiczÃ³wny
 Bachledy
-Baczyñskiego
+BaczyÅ„skiego
 Badurskiego
 Bagatela
 Bagienna
 Bagrowa
 Bajana
 Bajeczna
-B¹kowskiego
-Balanówka
+BÄ…kowskiego
+BalanÃ³wka
 Balicka
 Balickiego
 Balladyny
-Ba³tycka
-Ba³uckiego
+BaÅ‚tycka
+BaÅ‚uckiego
 Banacha
 Banachiewicza
 Bandtkiego
 Baranieckiego
 Barbary
-Barbary Radziwi³³ówny
+Barbary RadziwiÅ‚Å‚Ã³wny
 Bardosa
 Bardowskiego
 Barska
 Bartla
 Bartnicza
-Bartników
+BartnikÃ³w
 Bartosza
 Barty
 Barwinkowa
@@ -75,76 +75,76 @@ Barycka
 Barycza
 Bastionowa
 Basztowa
-Batalionów Ch³opskich
-Batalionu AK Ska³a
+BatalionÃ³w ChÅ‚opskich
+Batalionu AK SkaÅ‚a
 Batalionu Parasol
-Batalionu Zoœka
+Batalionu ZoÅ›ka
 Batki
 Batowicka
-Ba¿ancia
-Ba¿anki
+BaÅ¼ancia
+BaÅ¼anki
 Bazarowa
 Baziaka
 Becka
 Bednarska
-Bêdziñska
+BÄ™dziÅ„ska
 Bellerta
-Belwederczyków
-Be³zy
+BelwederczykÃ³w
+BeÅ‚zy
 Bema
 Benedyktowicza
-Benedyktyñska
+BenedyktyÅ„ska
 Beniowskiego
 Berberysowa
 Berdyczowska
 Berenta
-Bernardyñska
-Berwiñskiego
+BernardyÅ„ska
+BerwiÅ„skiego
 Beskidzka
 Betlejemska
 Betonowa
-Bia³a
-Bia³a Droga
-Bia³opr¹dnicka
-Bia³oruska
-Bia³ostocka
-Bia³ych Brzóz
+BiaÅ‚a
+BiaÅ‚a Droga
+BiaÅ‚oprÄ…dnicka
+BiaÅ‚oruska
+BiaÅ‚ostocka
+BiaÅ‚ych BrzÃ³z
 Bibicka
 Bielaka
-Bielañska
-Bielañskiego
+BielaÅ„ska
+BielaÅ„skiego
 Bielskiego
-Bieñczycka
-Bieñczycki Plac Targowy
-Bieniarzówny
+BieÅ„czycka
+BieÅ„czycki Plac Targowy
+BieniarzÃ³wny
 Bierkowskiego
 Biernackiego
 Biernata z Lublina
 Biesiadna
 Bieszczadzka
-Bie¿anowska
-Billewiczów
+BieÅ¼anowska
+BillewiczÃ³w
 Birkuta
 Biskupia
-Biskupiñska
+BiskupiÅ„ska
 Bitschana
-Bitwy nad Bzur¹
+Bitwy nad BzurÄ…
 Biwakowa
 Blacharska
-B³awatkowa
-B³êkitna
+BÅ‚awatkowa
+BÅ‚Ä™kitna
 Blich
 Bliska
 Blokowa
-B³otna
-B³otniska
+BÅ‚otna
+BÅ‚otniska
 Bluszczowa
 Bobrowa
 Bobrowskiego
 Bobrzeckiej
-Bobrzyñskiego
+BobrzyÅ„skiego
 Bochenka
-Bocheñska
+BocheÅ„ska
 Bochnaka
 Bociana
 Boczna
@@ -155,73 +155,73 @@ Bogdanowicza
 Bogdanowskiego
 Bogucianka
 Bogucicka
-Bogus³awskiego
+BogusÅ‚awskiego
 Bogusza
-Boguszówka
-Bohaterów Wietnamu
+BoguszÃ³wka
+BohaterÃ³w Wietnamu
 Bohomolca
-Bojanówka
+BojanÃ³wka
 Bojki
-Boles³awa Chrobrego
-Boles³awa Krzywoustego
-Boles³awa Œmia³ego
-Boles³awa Wstydliwego
+BolesÅ‚awa Chrobrego
+BolesÅ‚awa Krzywoustego
+BolesÅ‚awa ÅšmiaÅ‚ego
+BolesÅ‚awa Wstydliwego
 Bonarka
 Bonerowska
 Bonifraterska
-Bór
-Boratyñskiego
+BÃ³r
+BoratyÅ„skiego
 Borelowskiego
 Borkowska
-Borkowskie B³onia
-Borówczana
+Borkowskie BÅ‚onia
+BorÃ³wczana
 Borowego
 Borowickiej
 Borowinowa
 Borsucza
 Boruty-Spiechowicza
 Bosacka
-Bosaków
+BosakÃ³w
 Botaniczna
 Botewa
-Boya ¯eleñskiego
-Bo¿ego Cia³a
-Bo¿ego Mi³osierdzia
-Boznañskiej
-Bo¿ywoja
-Braci Czeczów
-Braci Jamków
-Braci Kiemliczów
+Boya Å»eleÅ„skiego
+BoÅ¼ego CiaÅ‚a
+BoÅ¼ego MiÅ‚osierdzia
+BoznaÅ„skiej
+BoÅ¼ywoja
+Braci CzeczÃ³w
+Braci JamkÃ³w
+Braci KiemliczÃ³w
 Braci Polskich
-Braci Schindlerów
+Braci SchindlerÃ³w
 Bracka
 Brandla
 Branicka
 Braterska
 Braterstwa Broni
 Bratkowa
-Bratys³awska
-Br¹zownicza
-Brücknera
+BratysÅ‚awska
+BrÄ…zownicza
+BrÃ¼cknera
 Brodowicza
-Brodziñskiego
+BrodziÅ„skiego
 Brogi
 Broniewskiego
 Bronowicka
 Browarniana
-Bro¿ka
-Bruœnicka
+BroÅ¼ka
+BruÅ›nicka
 Bruzdowa
 Brzask
 Brzechwy
 Brzegowa
 Brzeska
-Brzeziñskiego
+BrzeziÅ„skiego
 Brzozowa
 Brzozowskiego
 Budryka
-Budrysów
-Budziszyñska
+BudrysÃ³w
+BudziszyÅ„ska
 Bugaj
 Bujaka
 Bujwida
@@ -229,8 +229,8 @@ Bukietowa
 Bukowa
 Bukszpanowa
 Bularnia
-Bu³garska
-Bu³haka
+BuÅ‚garska
+BuÅ‚haka
 Bulwarowa
 Bunscha
 Buraczana
@@ -238,45 +238,45 @@ Burgundzka
 Bursztynowa
 Burzowa
 Buszka
-Butrymów
+ButrymÃ³w
 Bydgoska
 Bystra
 Bystronia
 Bytomska
-Bzymka-Strza³kowskiego
+Bzymka-StrzaÅ‚kowskiego
 Cechowa
 Cedrowa
-Cedyñska
+CedyÅ„ska
 Cegielniana
 Ceglarska
-Celakówny
+CelakÃ³wny
 Celarowska
 Celna
 Cementowa
-Centkiewiczów
+CentkiewiczÃ³w
 Centralna
-Cerchów
+CerchÃ³w
 Cesarza
 Chabrowa
-Cha³ubiñskiego
-Cha³upki
-Cha³upnika
+ChaÅ‚ubiÅ„skiego
+ChaÅ‚upki
+ChaÅ‚upnika
 Chanieckiej
-Chêciñska
-Che³moñskiego
-Che³moñskiego-Deptak
-Che³mska
+ChÄ™ciÅ„ska
+CheÅ‚moÅ„skiego
+CheÅ‚moÅ„skiego-Deptak
+CheÅ‚mska
 Chlebiczna
 Chlebowa
-Ch³odna
-Ch³opickiego
-Ch³opska
+ChÅ‚odna
+ChÅ‚opickiego
+ChÅ‚opska
 Chmiela
 Chmieleniec
 Chmielna
 Chmielowskiego
 Chmurna
-Chocho³owska
+ChochoÅ‚owska
 Chocimska
 Chodkiewicza
 Chodowieckiego
@@ -288,88 +288,88 @@ Chwistka
 Ciasna
 Cicha
 Cichociemnych AK
-Cichy K¹cik
+Cichy KÄ…cik
 Ciechanowska
 Ciechanowskiego
-Ciechociñska
+CiechociÅ„ska
 Ciekowiec
 Ciemna
 Cienista
-Ciep³a
-Ciepliñskiego
-Ciep³ownicza
+CiepÅ‚a
+CiepliÅ„skiego
+CiepÅ‚ownicza
 Ciesielska
-Cieœlewskiego
-Cieœliñskiej-Brzeskiej
-Cieszyñska
-Cio³kosza
-Cio³kowskiego
+CieÅ›lewskiego
+CieÅ›liÅ„skiej-Brzeskiej
+CieszyÅ„ska
+CioÅ‚kosza
+CioÅ‚kowskiego
 Cisowa
 Combrowa
 Conrada
 Cuplowa
 Cybulskiego
-Cygañska
-Cyprysów
-Cystersów
+CygaÅ„ska
+CyprysÃ³w
+CystersÃ³w
 Czackiego
 Czajek
 Czajkowskiego
 Czajna
-Czapiñskiego
+CzapiÅ„skiego
 Czaplickiego
 Czapskich
 Czarnieckiego
-Czarnogórska
+CzarnogÃ³rska
 Czarnowiejska
 Czarodziejska
 Czecha
-Czechos³owacka
+CzechosÅ‚owacka
 Czechowicza
-Czeczeñska
+CzeczeÅ„ska
 Czeczotta
 Czeladnicza
 Czepca
 Czeppe
 Czeremchowa
-Czereœniowa
+CzereÅ›niowa
 Czerska
 Czerwiakowskiego
-Czerwieñskiego
+CzerwieÅ„skiego
 Czerwona
 Czerwonego Kapturka
-Czerwonego Pr¹dnika
+Czerwonego PrÄ…dnika
 Czerwone Maki
-Czo³gistów
-Czorsztyñska
+CzoÅ‚gistÃ³w
+CzorsztyÅ„ska
 Czuchnowskiego
-Czwartaków
-Czyrniañskiego
+CzwartakÃ³w
+CzyrniaÅ„skiego
 Czysta
-Czy¿ewskiego
-Czy¿ówka
-Czy¿yków
-Czy¿yñska
-D¹bka
-D¹browa
-D¹brówki
-D¹browskiego
-D¹browskiej
-D¹bska
-Dajwór
+CzyÅ¼ewskiego
+CzyÅ¼Ã³wka
+CzyÅ¼ykÃ³w
+CzyÅ¼yÅ„ska
+DÄ…bka
+DÄ…browa
+DÄ…brÃ³wki
+DÄ…browskiego
+DÄ…browskiej
+DÄ…bska
+DajwÃ³r
 Daleka
 Daliowa
-Danalówka
-Dani³owskiego
+DanalÃ³wka
+DaniÅ‚owskiego
 Danka
 Darasza
 Darwina
 Dauna
-Dêbickiego
-Dêbnicka
-Dêboroga
-Dêbowa
-Dêbskiego
+DÄ™bickiego
+DÄ™bnicka
+DÄ™boroga
+DÄ™bowa
+DÄ™bskiego
 Dekarzy
 Dekerta
 Dembowskiego
@@ -377,8 +377,8 @@ Deotymy
 Dereniowa
 Deszczowa
 Dietla
-D³uga
-D³ugosza
+DÅ‚uga
+DÅ‚ugosza
 Dmowskiego
 Dobczycka
 Dobra
@@ -387,110 +387,110 @@ Dobrowolskiego
 Dobrzyckiego
 Dojazdowa
 Dolina
-Doliñskiego
+DoliÅ„skiego
 Dolna
-Dolnom³yñska
-Dolnych M³ynów
-Domaga³y
+DolnomÅ‚yÅ„ska
+Dolnych MÅ‚ynÃ³w
+DomagaÅ‚y
 Domeyki
-Dominikanów
-Dominikañska
+DominikanÃ³w
+DominikaÅ„ska
 Domki
 Domowa
 Doroszewskiego
-Do¿ynkowa
+DoÅ¼ynkowa
 Do Fortu
 Do Groty
 Do Luboni
 Do Obserwatorium
 Do Przystani
-Do Sanktuarium Bo¿ego Mi³osierdzia
+Do Sanktuarium BoÅ¼ego MiÅ‚osierdzia
 Do Wilgi
-Do Wis³y
+Do WisÅ‚y
 Drewniana
 Droga do Zamku
-Droga nad Bia³uch¹
+Droga nad BiaÅ‚uchÄ…
 Droga Rokadowa
 Drozdowskich
-Dro¿d¿owa
-Dró¿ka
-Dró¿nicka
-Dro¿yna
-Dro¿yska
+DroÅ¼dÅ¼owa
+DrÃ³Å¼ka
+DrÃ³Å¼nicka
+DroÅ¼yna
+DroÅ¼yska
 Druhny Hanki
 Drukarska
 Druskiennicka
-Dru¿backiej
-Drzyma³y
+DruÅ¼backiej
+DrzymaÅ‚y
 Dubois
 Duchacka
-Dukatów
+DukatÃ³w
 Dunajewskiego
 Dunikowskiego
-Dunin-W¹sowicza
-Du¿a Góra
+Dunin-WÄ…sowicza
+DuÅ¼a GÃ³ra
 Dwernickiego
 Dworcowa
 Dworna
 Dworska
-Dworski Ogród
+Dworski OgrÃ³d
 Dybowskiego
 Dymarek
 Dymnik
 Dytmara
-Dzia³kowa
-Dzia³owskiego
+DziaÅ‚kowa
+DziaÅ‚owskiego
 Dziedzica
 Dziekanowicka
 Dzielna
 Dzielskiego
 Dziewanny
 Dziewiarzy
-Dzikiej Ró¿y
+Dzikiej RÃ³Å¼y
 Ehrenberga
 Eibischa
 Eisenberga
 Ekielskiego
 Eliasza-Radzikowskiego
 Elsnera
-El¿biety £okietkówny
+ElÅ¼biety ÅokietkÃ³wny
 Emaus
 Emilii Plater
 Emira
 Estery
-Estoñska
-Estreicherów
-Fabijañskich
+EstoÅ„ska
+EstreicherÃ³w
+FabijaÅ„skich
 Fabryczna
 Facimiech
-Fa³ata
-Fa³êcka
+FaÅ‚ata
+FaÅ‚Ä™cka
 Falista
 Falowa
 Familijna
-Farmaceutów
+FarmaceutÃ³w
 Fatimska
 Fedkowicza
 Feldmana
 Felicjanek
-Feliñskiego
+FeliÅ„skiego
 Fertnera
 Fieldorfa
 Filarecka
 Filipowicza
 Filtrowa
-Fio³kowa
+FioÅ‚kowa
 Fiszera
 Flame
 Flanka
 Flisacka
 Florera
-Floriañska
+FloriaÅ„ska
 Florkowskiego
 Folwarczna
 Forteczna
 Fosa
-Franciszkañska
+FranciszkaÅ„ska
 Fredry
 Friedleina
 Frycza
@@ -502,98 +502,98 @@ Gadomskiego
 Gaik
 Gajocha
 Gajowa
-Gajówka
+GajÃ³wka
 Galaktyczna
-Ga³czyñskiego
-Ga³êzowskiego
+GaÅ‚czyÅ„skiego
+GaÅ‚Ä™zowskiego
 Gandhiego
 Garbarska
-Garczyñskiego
+GarczyÅ„skiego
 Gardowskiego
 Gardy-Godlewskiego
 Garncarska
-G¹siorowskiego
+GÄ…siorowskiego
 Gawliny
 Gazowa
-Gdañska
+GdaÅ„ska
 Gdowska
-Gdyñska
-Geodetów
-Geologów
+GdyÅ„ska
+GeodetÃ³w
+GeologÃ³w
 Gerberowa
 Gerlaha
 Gersona
-Gêsia
+GÄ™sia
 Giedroycia
 Gierymskich
 Gilowa
 Gipsowa
-G³êbinowa
-G³êboka
+GÅ‚Ä™binowa
+GÅ‚Ä™boka
 Gliniana
 Glinik
 Glogera
-G³ogowa
-G³ogowiec
-G³ogowska
-G³owackiego
+GÅ‚ogowa
+GÅ‚ogowiec
+GÅ‚ogowska
+GÅ‚owackiego
 Gminna
-GnieŸnieñska
+GnieÅºnieÅ„ska
 Godebskiego
 Godlewskiego
 Goetla
-Go³¹ba
-Go³aœka
-Go³êbia
-Golikówka
+GoÅ‚Ä…ba
+GoÅ‚aÅ›ka
+GoÅ‚Ä™bia
+GolikÃ³wka
 Golkowicka
 Gombrowicza
 Gontyna
 Goplana
 Gorczyna
-Górka Narodowa
-Górna
-Górnickiego
-Górników
-Górska
+GÃ³rka Narodowa
+GÃ³rna
+GÃ³rnickiego
+GÃ³rnikÃ³w
+GÃ³rska
 Goryczkowa
-Goœcinna
+GoÅ›cinna
 Goslara
 Gospodarska
-Goszczyñskiego
-GoŸdzikowa
+GoszczyÅ„skiego
+GoÅºdzikowa
 Grabczaka
 Grabowa
 Grabowskiego
-Gr¹by
+GrÄ…by
 Gradowa
 Gramatyka
 Graniczna
 Granitowa
 Grawerska
-Gra¿yny
-Grêba³owska
-Grenadierów
+GraÅ¼yny
+GrÄ™baÅ‚owska
+GrenadierÃ³w
 Grochowa
 Grochowiaka
 Grochowska
 Grodzisko
 Grodzka
 Groickiego
-Gromady Grudzi¹¿
+Gromady GrudziÄ…Å¼
 Gromadzka
 Gronostajowa
 Gronowa
 Groszkowa
 Grota Roweckiego
 Grunwaldzka
-Gruszczyñskiego
+GruszczyÅ„skiego
 Gryczana
 Gryfity
 Gryglewskiego
 Grzecha
 Grzegorza z Sanoka
-Grzegórzecka
+GrzegÃ³rzecka
 Grzegorzewskiej
 Grzepskiego
 Grzybki
@@ -602,8 +602,8 @@ Gumowskiego
 Gutenberga
 Gwarecka
 Gwarna
-GwieŸdzista
-Gzymsików
+GwieÅºdzista
+GzymsikÃ³w
 Habeli
 Habina
 Halczyna
@@ -615,10 +615,10 @@ Hamernia
 Harasymowicza
 Harcerska
 Harcerzy Krakowskich
-Harnasiów
+HarnasiÃ³w
 Heila
 Hektary
-Helclów
+HelclÃ³w
 Heleny
 Heligundy
 Heltmana
@@ -626,23 +626,23 @@ Hemara
 Henryka Brodatego
 Herberta
 Herbowa
-Herlinga-Grudziñskiego
-Herwina-Pi¹tka
+Herlinga-GrudziÅ„skiego
+Herwina-PiÄ…tka
 Herzoga
-Hetmañska
+HetmaÅ„ska
 Heweliusza
 Hiacyntowa
 Hoborskiego
 Hodura
 Hoffmanowej
 Hofmana
-Ho³du Pruskiego
+HoÅ‚du Pruskiego
 Hollendra
 Homolacsa
 Horaka
 Hoyera
-Ho¿a
-Hubalczyków
+HoÅ¼a
+HubalczykÃ³w
 Huculska
 Hufcowa
 Humberta
@@ -651,39 +651,39 @@ Hutnika
 Hynka
 Hypty
 Idzikowskiego
-Igo³omska
-Igrców
-I³owa
+IgoÅ‚omska
+IgrcÃ³w
+IÅ‚owa
 Imbramowska
 Imielna
 Ingardena
 Inicjatywy Lokalnej
-Insurekcji Koœciuszkowskiej
+Insurekcji KoÅ›ciuszkowskiej
 Irysowa
 Irzykowskiego
 Isep
 Iwaszkiewicza
 Iwonicka
 Izaaka
-Jab³onkowska
-Jab³onna
-Jab³onowskich
+JabÅ‚onkowska
+JabÅ‚onna
+JabÅ‚onowskich
 Jachimeckiego
 Jachowicza
-Jadwigi z £obzowa
-JadŸwingów
-Jagie³ka
-Jagielloñska
+Jadwigi z Åobzowa
+JadÅºwingÃ³w
+JagieÅ‚ka
+JagielloÅ„ska
 Jagienki
 Jaglana
-Jaglarzów
+JaglarzÃ³w
 Jagodowa
 Jahody
 Jakuba
 Jakubca
 Jakubowskiego
-Ja³owcowa
-Janasówka
+JaÅ‚owcowa
+JanasÃ³wka
 Jana III Sobieskiego
 Jana Kazimierza
 Jana Olbrachta
@@ -699,139 +699,139 @@ Jar
 Jaracza
 Jaremy
 Jarockiego
-Jaros³awska
-Jarzêbiny
+JarosÅ‚awska
+JarzÄ™biny
 Jarzynowa
-Jase³kowa
-Jasia i Ma³gosi
+JaseÅ‚kowa
+Jasia i MaÅ‚gosi
 Jasielska
 Jasienicy
-Jasieñskiego
-Jasiñskiego
+JasieÅ„skiego
+JasiÅ„skiego
 Jasiukowicza
-Jaskó³cza
+JaskÃ³Å‚cza
 Jaskra
 Jaskrowa
-Jaœminowa
+JaÅ›minowa
 Jasna
-Jasnogórska
+JasnogÃ³rska
 Jasnorzewskiej-Pawlikowskiej
-Jastrzêbia
+JastrzÄ™bia
 Jaworowa
 Jaworskiego
 Jazowa
-Jêczmienna
-Jêdrzejczyka
-Jeleniogórska
+JÄ™czmienna
+JÄ™drzejczyka
+JeleniogÃ³rska
 Jeleniowa
 Jelskiego
-Jemio³owa
-Jemio³uszek
+JemioÅ‚owa
+JemioÅ‚uszek
 Jerozolimska
 Jerzmanowskiego
 Jesienna
 Jesionowa
-JeŸdziecka
+JeÅºdziecka
 Jezierskiego
 Jeziorany
 Jeziorko
-Je¿ów
-Jezuitów
-Je¿ynowa
-Jod³owa
-Jontkowa Górka
+JeÅ¼Ã³w
+JezuitÃ³w
+JeÅ¼ynowa
+JodÅ‚owa
+Jontkowa GÃ³rka
 Jordanowska
 Joselewicza
-Józefa
-Józefiñska
-Józefitów
+JÃ³zefa
+JÃ³zefiÅ„ska
+JÃ³zefitÃ³w
 Jubileuszowa
 Judyma
 Jugowicka
 Junacka
 Jurajska
 Juranda ze Spychowa
-Jurandówny
+JurandÃ³wny
 Jurowicza
 Justowska
 Jutrzenka
-Jutrzyñska
-K¹cik
+JutrzyÅ„ska
+KÄ…cik
 Kacza
 Kaczary
-Kaczeñcowa
+KaczeÅ„cowa
 Kaczmarczyka
-Kaczorówka
+KaczorÃ³wka
 Kadecka
 Kadena-Bandrowskiego
-Kad³ubka
-Kadrówki
+KadÅ‚ubka
+KadrÃ³wki
 Kaimska
 Kajty
-K¹kolowa
+KÄ…kolowa
 Kaktusowa
 Kalenkiewicza
 Kalinowa
 Kaliska
 Kallimacha
-Ka³u¿y
+KaÅ‚uÅ¼y
 Kalwaryjska
-Kalwiñska
+KalwiÅ„ska
 Kamberskiego
 Kamedulska
 Kameliowa
 Kamieniarska
 Kamieniecka
 Kamienna
-Kamieñskiego
+KamieÅ„skiego
 Kamionka
 Kanarkowa
 Kanonicza
-Kanonierów
+KanonierÃ³w
 Kantora
 Kantorowicka
 Kapelanka
-K¹pielowa
+KÄ…pielowa
 Kaplickiego
-Kapucyñska
-Karasiówka
+KapucyÅ„ska
+KarasiÃ³wka
 Karaszewicza-Tokarzewskiego
 Karcza
-Kar³owicza
+KarÅ‚owicza
 Karmelicka
 Karowa
 Karpacka
-Karpiñskiego
+KarpiÅ„skiego
 Kasprowicza
 Kasprzyckiego
 Kasznicy
-Kasztelañska
+KasztelaÅ„ska
 Kaszubska
-K¹t
-K¹towa
+KÄ…t
+KÄ…towa
 Katowicka
 Kawiory
 Kawowa
-Kazimierza Jagielloñczyka
+Kazimierza JagielloÅ„czyka
 Kazimierza Odnowiciela
 Kazimierza Sprawiedliwego
 Kazimierza Wielkiego
-Kêdzierzyñska
+KÄ™dzierzyÅ„ska
 Kenara
-Kêpiñskiego
-Kêpna
-Kêpska
+KÄ™piÅ„skiego
+KÄ™pna
+KÄ™pska
 Ketlinga
 Kielecka
-Kie³kowskiego
+KieÅ‚kowskiego
 Kiepury
 Kierzkowskiego
 Kijanki
-Kiliñskiego
+KiliÅ„skiego
 Kirchmajera
 Kisielewskiego
 Kiwerskiego
-K³aka
+KÅ‚aka
 Klasztorna
 Kleeberga
 Kleinera
@@ -839,46 +839,46 @@ Klemensa z Ruszczy
 Klemensiewicza
 Klimeckiego
 Kliniec
-K³odzka
+KÅ‚odzka
 Klonowa
 Klonowica
-K³osowa
-K³osowskiego
+KÅ‚osowa
+KÅ‚osowskiego
 Kluczborska
 Kluka
 Kluszewskiego
-K³uszyñska
+KÅ‚uszyÅ„ska
 Kluzeka
 Kmicica
 Kmieca
 Kmietowicza
 Kminkowa
-KniaŸnina
-Kobierzyñska
+KniaÅºnina
+KobierzyÅ„ska
 Kochanowskiego
-Kochmañskiego
+KochmaÅ„skiego
 Kocmyrzowska
 Kogucia
 Kokosowa
 Kokotowska
-Ko³aczkowskiego
-Ko³aczy
+KoÅ‚aczkowskiego
+KoÅ‚aczy
 Kolarzy
 Kolberga
-Kolêdnicza
+KolÄ™dnicza
 Kolejarzy
 Kolejowa
 Koletek
 Kolista
-Ko³³¹taja
+KoÅ‚Å‚Ä…taja
 Kolna
-Ko³obrzeska
-Ko³odziejska
+KoÅ‚obrzeska
+KoÅ‚odziejska
 Kolonijna
-Ko³owa
-Ko³o Bia³uchy
-Ko³o Strzelnicy
-Komandosów
+KoÅ‚owa
+KoÅ‚o BiaÅ‚uchy
+KoÅ‚o Strzelnicy
+KomandosÃ³w
 Komasy
 Komorowskiego
 Komuny Paryskiej
@@ -900,56 +900,56 @@ Kopiec Krakusa
 Koprowa
 Koralowa
 Korczaka
-Korczyñskiego
+KorczyÅ„skiego
 Kordeckiego
 Kordiana
 Kordylewskiego
 Korepty
 Korfantego
-Kormoranów
+KormoranÃ³w
 Korohody
 Korony Polskiej
 Korpala
 Korzeniaka
 Korzeniowskiego
-Koœcielna
-Koœcielnicka
-Koœciuszki
-Koœciuszkowców
+KoÅ›cielna
+KoÅ›cielnicka
+KoÅ›ciuszki
+KoÅ›ciuszkowcÃ³w
 Kosiarzy
-Kosmonautów
+KosmonautÃ³w
 Kosmowskiej
 Kosocicka
-Kosów
+KosÃ³w
 Kostaneckiego
 Kostki Potockiego
 Kostrzecka
 Kostrzewskiego
-Kosynierów
-Koszaliñska
-Koszarówka
+KosynierÃ³w
+KoszaliÅ„ska
+KoszarÃ³wka
 Koszutki
 Koszykarska
-Kotlarczyków
+KotlarczykÃ³w
 Kotlarska
-Kotówka
+KotÃ³wka
 Kotowskiego
 Kotsisa
 Kowalska
 Kowalskiego
 Kownackiej
 Kozia
-Koziarówka
+KoziarÃ³wka
 Kozienicka
 Kozietulskiego
-KoŸlarska
-KoŸmiana
+KoÅºlarska
+KoÅºmiana
 Krajobrazowa
 Kraka
 Krakowska
 Krakusa
-Krakusów
-Krañcowa
+KrakusÃ³w
+KraÅ„cowa
 Krasickiego
 Krasnowolskiego
 Krasowa
@@ -957,93 +957,93 @@ Kraszewskiego
 Krawiecka
 Kremerowska
 Kremskiego
-Krêpy
+KrÄ™py
 Kresowa
-Krêta
+KrÄ™ta
 Krochmalniki
 Krokusowa
-Króla
-Królewska
-Królowej Bony
-Królowej Jadwigi
-Królowej Marysieñki
-Królówka
+KrÃ³la
+KrÃ³lewska
+KrÃ³lowej Bony
+KrÃ³lowej Jadwigi
+KrÃ³lowej MarysieÅ„ki
+KrÃ³lÃ³wka
 Kronikarza Galla
-Kroœnieñska
-Krótka
+KroÅ›nieÅ„ska
+KrÃ³tka
 Krowoderska
-Krowoderskich Zuchów
+Krowoderskich ZuchÃ³w
 Krucza
-Krum³owskiego
+KrumÅ‚owskiego
 Krupnicza
 Kruszwicka
 Krygowskiego
 Krymska
 Kryniczna
 Krystyna z Ostrowa
-Kryszta³owa
+KrysztaÅ‚owa
 Krzemieniecka
 Krzemionki
-Krzes³awicka
+KrzesÅ‚awicka
 Krzewowa
 Krzymuskiego
 Krzywa
 Krzywda
 Krzywickiego
-Krzywoñ
-Krzywy Zau³ek
-Krzy¿anowskiego
-Krzy¿añskiego
-Krzy¿ówka
-Krzy¿toporska
-Ksiêcia Józefa
-Ksiê¿arskiego
+KrzywoÅ„
+Krzywy ZauÅ‚ek
+KrzyÅ¼anowskiego
+KrzyÅ¼aÅ„skiego
+KrzyÅ¼Ã³wka
+KrzyÅ¼toporska
+KsiÄ™cia JÃ³zefa
+KsiÄ™Å¼arskiego
 
-Ksiê¿ycowa
-Kubliñskiego
-Kudliñskiego
+KsiÄ™Å¼ycowa
+KubliÅ„skiego
+KudliÅ„skiego
 Kujawska
 Kukiela
-Kukie³ek Golkowickich
-Kuku³cza
-Ku³akowskiego
+KukieÅ‚ek Golkowickich
+KukuÅ‚cza
+KuÅ‚akowskiego
 Kulinowskiej
 Kunickiego
 Kupa
-Kupa³y
+KupaÅ‚y
 Kurasia
 Kurczaba
 Kurkowa
 Kurniki
-Kurozwêckiego
-Kurpiñskiego
-Kury³owicza
-Kuœnierska
-Kusociñskiego
+KurozwÄ™ckiego
+KurpiÅ„skiego
+KuryÅ‚owicza
+KuÅ›nierska
+KusociÅ„skiego
 Kustronia
 Kutrzeby
-KuŸnicy Ko³³¹tajowskiej
-KuŸnicza
+KuÅºnicy KoÅ‚Å‚Ä…tajowskiej
+KuÅºnicza
 Ku Raciborowicom
 Kwartowa
 Kwatery
 Kwiatkowskiego
 Kwiatowa
-Kwiatów Polskich
+KwiatÃ³w Polskich
 Kwiecista
 Kwietna
 Lajkonika
-Lanckoroñska
+LanckoroÅ„ska
 Landaua
 Lande
 Langiewicza
 Lasek
 Laskowa
-Lasogórska
+LasogÃ³rska
 Lasowisko
-Lasówka
+LasÃ³wka
 Laszczki
-Laudañska
+LaudaÅ„ska
 Lawendowa
 Lazurowa
 Lea
@@ -1052,20 +1052,20 @@ Lechicka
 Lechonia
 Lecznicza
 Legendy
-Legionów
-Legionów Pi³sudskiego
+LegionÃ³w
+LegionÃ³w PiÅ‚sudskiego
 Legnicka
-Lehra-Sp³awiñskiego
+Lehra-SpÅ‚awiÅ„skiego
 Lei
 Lekarska
 Lelewela
 Lenartowicza
 Lentza
 Lesista
-Leœmiana
-Leœna
+LeÅ›miana
+LeÅ›na
 Leszczynowa
-Leszka Bia³ego
+Leszka BiaÅ‚ego
 Leszka Czarnego
 Letnia
 Lewkowa
@@ -1076,148 +1076,148 @@ Liliowa
 Lilli Wenedy
 Limanowskiego
 Lindego
-Lipiñskiego
+LipiÅ„skiego
 Lipowa
 Lipowskiego
 Lipska
-Lirników
+LirnikÃ³w
 Liryczna
 Lisa-Kuli
-Liœciasta
+LiÅ›ciasta
 Lisia
 Litawora
 Litewska
 Lniana
-Loretañska
+LoretaÅ„ska
 Lotnicza
 Lubelska
 Lubicz
-Lublañska
+LublaÅ„ska
 Lubocka
 Lubomirskiego
 Luborzycka
-Lubostroñ
+LubostroÅ„
 Lubuska
 Ludowa
 Ludwinowska
 Ludwisarzy
-LudŸmierska
-Lusiñska
+LudÅºmierska
+LusiÅ„ska
 Lutego Tura
 Lwowska
-Macedoñska
+MacedoÅ„ska
 Maciejkowa
 Macierzanki
-Maæka z Bogdañca
+MaÄ‡ka z BogdaÅ„ca
 Mackiewicza
-Maækowa Góra
-M¹czna
-Madaliñskiego
-Madejówka
+MaÄ‡kowa GÃ³ra
+MÄ…czna
+MadaliÅ„skiego
+MadejÃ³wka
 Madera
 Magazynowa
 Magnolii
 Majora
 Majowa
-Majówny
+MajÃ³wny
 Maklakiewicza
 Makowa
 Makowskiego
-Makuszyñskiego
-Ma³a
+MakuszyÅ„skiego
+MaÅ‚a
 Malachitowa
 Malawskiego
-Ma³a Góra
+MaÅ‚a GÃ³ra
 Malborska
 Malczewskiego
-Ma³eckiego
-Ma³ego Ksiêcia
+MaÅ‚eckiego
+MaÅ‚ego KsiÄ™cia
 Malinowa
 Malinowskiego
-Ma³ka
-Ma³kowskiego
+MaÅ‚ka
+MaÅ‚kowskiego
 Malownicza
 Malutka
 Malwowa
-Ma³y P³aszów
-Ma³y Rynek
-Marcho³ta
+MaÅ‚y PÅ‚aszÃ³w
+MaÅ‚y Rynek
+MarchoÅ‚ta
 Marcika
 Marcowa
-Marczyñskiego
+MarczyÅ„skiego
 Margaretek
 Marglowa
 Markowskiego
 Martenowska
-Marusarzówny
+MarusarzÃ³wny
 Marycjusza
 Maryewskiego
 Marynarska
 Marzanny
 Masarska
-Matematyków Krakowskich
+MatematykÃ³w Krakowskich
 Matki Tajber
 Mazowiecka
 Mazurska
-Medalionów
+MedalionÃ³w
 Medweckiego
 Medyczna
 Mehoffera
 Meiselsa
 Meissnera
 Merkuriusza Polskiego
-Metalowców
+MetalowcÃ³w
 Miarowa
 Michalika
-Micha³owskiego
-Miciñskiego
+MichaÅ‚owskiego
+MiciÅ„skiego
 Miechowity
 Miechowska
-Mieczników
+MiecznikÃ³w
 Mieczykowa
 Miedziana
 Miejscowa
 Mierniczych
-Mieros³awskiego
-Mierzeja Wiœlana
+MierosÅ‚awskiego
+Mierzeja WiÅ›lana
 Mierzwy
-Mieszczañska
+MieszczaÅ„ska
 Mieszka I
-Miêtowa
-Migda³owa
-Miko³ajczyka
-Miko³ajska
-Mi³a
-Mi³kowskiego
+MiÄ™towa
+MigdaÅ‚owa
+MikoÅ‚ajczyka
+MikoÅ‚ajska
+MiÅ‚a
+MiÅ‚kowskiego
 Millana
-Mi³osza
-Miodoñskiego
+MiÅ‚osza
+MiodoÅ„skiego
 Miodowa
 Mireckiego
 Mirowska
 Mirtowa
-Misio³ka
+MisioÅ‚ka
 Misjonarska
-Miœnieñska
+MiÅ›nieÅ„ska
 Mistrzejowicka
 Mitery
 Mitkowskiego
-Mlaskotów
-M³odej Polski
-M³odzie¿y
-M³otków
-M³ynarskiego
-M³ynowa
-M³ynówka Królewska
-M³yñska
-M³yñska Boczna
-Müncha
+MlaskotÃ³w
+MÅ‚odej Polski
+MÅ‚odzieÅ¼y
+MÅ‚otkÃ³w
+MÅ‚ynarskiego
+MÅ‚ynowa
+MÅ‚ynÃ³wka KrÃ³lewska
+MÅ‚yÅ„ska
+MÅ‚yÅ„ska Boczna
+MÃ¼ncha
 Mochnackiego
 Mochnaniec
-Moczyd³o
+MoczydÅ‚o
 Modra
 Modrzejewskiej
-Mogi³ki
+MogiÅ‚ki
 Mogilska
 Mokra
 Monda
@@ -1226,7 +1226,7 @@ Montelupich
 Monterska
 Monte Cassino
 Moraczewskiego
-Morawiañskiego
+MorawiaÅ„skiego
 Morawskiego
 Morcinka
 Morelowa
@@ -1236,50 +1236,50 @@ Morstina
 Morsztynowska
 Mortkowicz-Olczakowej
 Morwowa
-Moœcickiego
+MoÅ›cickiego
 Mosdorfa
-Mosiê¿nicza
+MosiÄ™Å¼nicza
 Mostowa
-Moszyñskiego
+MoszyÅ„skiego
 Motarskiego
 Motyla
-Mrówczana
+MrÃ³wczana
 Mrozowa
 Murarska
 Murowana
-Muszyñskiego
+MuszyÅ„skiego
 Muzyczki
-Muzyków
+MuzykÃ³w
 Mycielskiego
 Myczkowskiego
 Mydlarska
 Mydlnicka
-Mys³akowskiego
-Myœlenicka
-Myœliwska
+MysÅ‚akowskiego
+MyÅ›lenicka
+MyÅ›liwska
 Nabielaka
 Naczelna
 Nadbrzezie
-Nadbrze¿na
+NadbrzeÅ¼na
 Nadrzeczna
-Nadwiœlañska
+NadwiÅ›laÅ„ska
 Nadwodna
 Nadzieja
-Nad Baranówk¹
-Nad Czern¹
-Nad D³ubni¹
-Nad Drwin¹
-Nad Fos¹
+Nad BaranÃ³wkÄ…
+Nad CzernÄ…
+Nad DÅ‚ubniÄ…
+Nad DrwinÄ…
+Nad FosÄ…
 Nad Potokiem
-Nad Seraf¹
-Nad Strug¹
-Nad Sudo³em
+Nad SerafÄ…
+Nad StrugÄ…
+Nad SudoÅ‚em
 Nad Zalewem
-Nad ród³em
-Nag³owicka
-Na³êczowska
-Na³kowskiego
-Na³kowskiej
+Nad Å¹rÃ³dÅ‚em
+NagÅ‚owicka
+NaÅ‚Ä™czowska
+NaÅ‚kowskiego
+NaÅ‚kowskiej
 Narciarska
 Narcyzowa
 Narutowicza
@@ -1291,24 +1291,24 @@ Natansona
 Nawigacyjna
 Nawojki
 Nawojowska
-Nazaretañska
+NazaretaÅ„ska
 Na Barciach
-Na B³oniach
-Na B³onie
+Na BÅ‚oniach
+Na BÅ‚onie
 Na Borach
 Na Budzyniu
-Na Cha³upkach
-Na Do³ach
-Na Górkach
+Na ChaÅ‚upkach
+Na DoÅ‚ach
+Na GÃ³rkach
 Na Grabinach
-Na Gródku
-Na Grz¹dkach
+Na GrÃ³dku
+Na GrzÄ…dkach
 Na Jazkach
-Na Kliñcu
-Na Koz³ówce
-Na £¹kach
+Na KliÅ„cu
+Na KozÅ‚Ã³wce
+Na ÅÄ…kach
 Na Leszczu
-Na £uku
+Na Åuku
 Na Mostkach
 Na Niwach
 Na Nowinach
@@ -1322,34 +1322,34 @@ Na Wiankach
 Na Wierzchowinach
 Na Wirach
 Na Wrzosach
-Na Wyrêbê
-Na Zakolu Wis³y
-Na Za³êczu
+Na WyrÄ™bÄ™
+Na Zakolu WisÅ‚y
+Na ZaÅ‚Ä™czu
 Na Zboczu
 Na Zielonki
-Na ZjeŸdzie
-Na Zrêbie
+Na ZjeÅºdzie
+Na ZrÄ™bie
 Nefrytowa
 Nenckiego
 Nenko
 Neussera
 Niebieska
-Nieby³a
-Nieca³a
-Niedu¿a
-Niedzia³kowskiego
+NiebyÅ‚a
+NiecaÅ‚a
+NieduÅ¼a
+NiedziaÅ‚kowskiego
 Niedzicka
-NiedŸwiedziny
+NiedÅºwiedziny
 Niemcewicza
 Niemena
 Niepokalanej Panny Marii
-Niepokólczyckiego
-Niepo³omska
-Nierówna
+NiepokÃ³lczyckiego
+NiepoÅ‚omska
+NierÃ³wna
 Nieszawska
 Nietoperzy
 Niewielka
-Niewodniczañskiego
+NiewodniczaÅ„skiego
 Niezapominajek
 Nieznana
 Nikifora
@@ -1361,71 +1361,71 @@ Normandzka
 Norwida
 Norymberska
 Nowa
-Nowaczyñskiego
+NowaczyÅ„skiego
 Nowaka
-Nowa Górka
+Nowa GÃ³rka
 Nowickiego
 Nowodworskiego
-Nowogródzka
+NowogrÃ³dzka
 Nowohucka
 Nowolipki
-Nowos¹decka
+NowosÄ…decka
 Nowotarska
 Nowowiejska
 Nullo
 Nuszkiewicza
-Obopólna
-OboŸna
+ObopÃ³lna
+OboÅºna
 Obozowa
-Obroñców Helu
-Obroñców Krzy¿a
-Obroñców Modlina
-Obroñców Poczty Gdañskiej
-Obroñców Tobruku
-Obroñców Warszawy
+ObroÅ„cÃ³w Helu
+ObroÅ„cÃ³w KrzyÅ¼a
+ObroÅ„cÃ³w Modlina
+ObroÅ„cÃ³w Poczty GdaÅ„skiej
+ObroÅ„cÃ³w Tobruku
+ObroÅ„cÃ³w Warszawy
 Obronna
-Obrony Tyñca
+Obrony TyÅ„ca
 Obwodowa
 Odlewnicza
-Odmêtowa
+OdmÄ™towa
 Odmogile
-Odrow¹¿a
-Odrzañska
+OdrowÄ…Å¼a
+OdrzaÅ„ska
 Odrzywolskiego
-Odyñca
-Ofiar D¹bia
-Og³êczyzna
+OdyÅ„ca
+Ofiar DÄ…bia
+OgÅ‚Ä™czyzna
 Ognistych Wici
-Ogórkowa
+OgÃ³rkowa
 Ogrodnicza
 Ogrodniczek
 Ogrodniki
 Ogrodowa
 Ojcowska
 Okocimska
-Okólna
+OkÃ³lna
 Okonia
 Okopowa
-Okr¹g
-Okrêglik
-Okrê¿na
+OkrÄ…g
+OkrÄ™glik
+OkrÄ™Å¼na
 Okrzei
 Okulickiego
-Okulistów
+OkulistÃ³w
 Olchowa
 Oleandry
 Olimpijska
 Olkuska
 Olszanicka
-Olszañska
+OlszaÅ„ska
 Olszecka
 Olszewskiego
-Olsztyñska
+OlsztyÅ„ska
 Olszyny
-Olszyny-Wilczyñskiego
+Olszyny-WilczyÅ„skiego
 Ondraszka
-Opaliñskiego
-Opa³ka
+OpaliÅ„skiego
+OpaÅ‚ka
 Opalowa
 Opatkowicka
 Opiala
@@ -1437,13 +1437,13 @@ Ordona
 Organki
 Orkana
 Orla
-Orl¹t Lwowskich
-Or³a Bia³ego
-Orleañska
+OrlÄ…t Lwowskich
+OrÅ‚a BiaÅ‚ego
+OrleaÅ„ska
 Orlich Gniazd
-Or³owskiego
+OrÅ‚owskiego
 Orna
-Orszañska
+OrszaÅ„ska
 Orszy-Broniewskiego
 Orzechowa
 Orzeszkowej
@@ -1456,33 +1456,33 @@ Ostafina
 Ostatnia
 Osterwy
 Ostroroga
-Ostrów
-Ostrówka
-Oœwiêcimska
+OstrÃ³w
+OstrÃ³wka
+OÅ›wiÄ™cimska
 Otwinowskiego
 Owcy-Orwicza
 Owocowa
 Owsiana
-Pachoñskiego
+PachoÅ„skiego
 Paderewskiego
 Padniewskiego
-Pagórkowa
+PagÃ³rkowa
 Pajdaka
-Pajêcza
+PajÄ™cza
 Palacha
 Palmowa
-Pamiêtna
+PamiÄ™tna
 Pana Cogito
 Pana Tadeusza
 Pankiewicza
 Panoramiczna
-Pañska
+PaÅ„ska
 Papiernicza
 Paproci
 Parafialna
 Parkowa
 Parnickiego
-Partyzantów
+PartyzantÃ³w
 Pasieczna
 Paska
 Pastelowa
@@ -1490,134 +1490,134 @@ Pasternik
 Pasterska
 Pasteura
 Paszkowskiego
-Patynów
-Pauliñska
+PatynÃ³w
+PauliÅ„ska
 Pawia
-Paw³a z Krosna
+PawÅ‚a z Krosna
 Pawlikowskiego
-Paw³owskiego
+PawÅ‚owskiego
 PCK
-Pêdzichów
+PÄ™dzichÃ³w
 Peipera
 
-Pejza¿owa
-Pêkowicka
-Pêkszyca-Grudziñskiego
-Pe³czyñskiego
+PejzaÅ¼owa
+PÄ™kowicka
+PÄ™kszyca-GrudziÅ„skiego
+PeÅ‚czyÅ„skiego
 Perkuna
-Per³owa
-Petöfiego
-Petra¿yckiego
+PerÅ‚owa
+PetÃ¶fiego
+PetraÅ¼yckiego
 Piaseckiego
 Piaskowa
-Piasta Ko³odzieja
+Piasta KoÅ‚odzieja
 Piastowska
 Piaszczysta
 Piekarska
-Piêkna
-Pielêgniarek
-Pieniñska
+PiÄ™kna
+PielÄ™gniarek
+PieniÅ„ska
 Pierackiego
-Pierzchówka
-Pietrusiñskiego
+PierzchÃ³wka
+PietrusiÅ„skiego
 Pigonia
 Pijarska
 Pileckiego
-Pi³karska
-Pilotów
-Pi³sudskiego
+PiÅ‚karska
+PilotÃ³w
+PiÅ‚sudskiego
 Piltza
-Piñczowska
+PiÅ„czowska
 Pinocci
 Piotra Skargi
 Piotrusia Pana
 Piwna
 Piwnika
 Planty
-Planty Bieñczyckie
+Planty BieÅ„czyckie
 Planty Nowackiego
-P³aska
+PÅ‚aska
 Plastusia
-P³aszowska
-Pla¿owa
+PÅ‚aszowska
+PlaÅ¼owa
 Pleszowska
-P³omyczka
-P³oszczyny
+PÅ‚omyczka
+PÅ‚oszczyny
 Pluty-Czachowskiego
 Pochwalskiego
-Pochy³a
+PochyÅ‚a
 Pocieszka
 Pocztowa
 Podbagnie
-Podbia³owa
-Podbipiêty
+PodbiaÅ‚owa
+PodbipiÄ™ty
 Podbrzezie
-Podchor¹¿ych
+PodchorÄ…Å¼ych
 Podedworze
-Podgórki
-Podgórki Tynieckie
-Podgórska
+PodgÃ³rki
+PodgÃ³rki Tynieckie
+PodgÃ³rska
 Podgwiezdna
-Podhalañska
+PodhalaÅ„ska
 Podhalnie
 Podkamyk
-Podkowiñskiego
-Pod³¹cze
+PodkowiÅ„skiego
+PodÅ‚Ä…cze
 Podlesie
 Podleska
-Pod³êska
-Pod³u¿na
+PodÅ‚Ä™ska
+PodÅ‚uÅ¼na
 Podmiejska
-Podmi³ów
-Podmok³a
+PodmiÅ‚Ã³w
+PodmokÅ‚a
 Podrzecze
 Podskale
 Podstawie
 Podwale
-Podwórkowa
+PodwÃ³rkowa
 Podzamcze
-Pod Dêbami
+Pod DÄ™bami
 Pod Fortem
 Pod Gajem
 Pod Gwiazdami
 Pod Janem
 Pod Pomnikiem
 Pod Sikornikiem
-Pod Ska³¹
-Pod Sowiñcem
+Pod SkaÅ‚Ä…
+Pod SowiÅ„cem
 Pod Stokiem
-Pod Strzech¹
+Pod StrzechÄ…
 Pod Sulnikiem
-Pod Szañcami
+Pod SzaÅ„cami
 Pod Szwedem
 Pod Wierzbami
 Pogodna
 Pokrzywki
-Pokutyñskiego
+PokutyÅ„skiego
 Pola
 Polarna
-Poleg³ych w Krzes³awicach
+PolegÅ‚ych w KrzesÅ‚awicach
 Poleska
-Pó³kole
-Pó³³anki
+PÃ³Å‚kole
+PÃ³Å‚Å‚anki
 Polna
-Pó³nocna
-Polnych Kwiatów
-Po³omskiego
+PÃ³Å‚nocna
+Polnych KwiatÃ³w
+PoÅ‚omskiego
 Polonijna
 Pomorska
 Pomykany
 Poniatowskiego
-Poniedzia³kowy Dó³
+PoniedziaÅ‚kowy DÃ³Å‚
 Popiela
-Popielidów
+PopielidÃ³w
 Popielnik
-Pop³awskiego
+PopÅ‚awskiego
 Poprzeczna
-Poraziñskiej
-Porêba
+PoraziÅ„skiej
+PorÄ™ba
 Porfirowa
-Poroniñska
+PoroniÅ„ska
 Portowa
 Port Solny
 Porzecze
@@ -1628,57 +1628,57 @@ Potoczek
 Potrzask
 Potrzebowskiego
 Poturalskiego
-Powa³y z Taczewa
+PowaÅ‚y z Taczewa
 Powiatowa
-Powiœle
+PowiÅ›le
 Powojowa
-PowroŸnicza
-Powstañców
-Powstañców Wielkopolskich
+PowroÅºnicza
+PowstaÅ„cÃ³w
+PowstaÅ„cÃ³w Wielkopolskich
 Powstania Listopadowego
 Powstania Styczniowego
 Poziomkowa
-Poznañska
-Pr¹dnicka
-Pr¹dzyñskiego
+PoznaÅ„ska
+PrÄ…dnicka
+PrÄ…dzyÅ„skiego
 Prandoty
 Praska
-Prawocheñskiego
-Pra¿mowskiego
-Próchnika
+PrawocheÅ„skiego
+PraÅ¼mowskiego
+PrÃ³chnika
 Prochowa
 Prokocimska
 Promienistych
 Promienna
 Promowa
-Pronaszków
+PronaszkÃ³w
 Pronia
 Prosta
 Proszowicka
 Prusa
 Pruska
-Pruszyñskiego
-Pryliñskiego
+PruszyÅ„skiego
+PryliÅ„skiego
 Prystora
 Przebindowskiego
-Przebiœniegów
+PrzebiÅ›niegÃ³w
 Przecinek
-Przedwioœnie
+PrzedwioÅ›nie
 Przegon
 Przegorzalska
-Przek¹tna
-Prze³azek
-Prze³êcz
-Prze³om
+PrzekÄ…tna
+PrzeÅ‚azek
+PrzeÅ‚Ä™cz
+PrzeÅ‚om
 Przemiarki
 Przemyska
-Przemys³awa II
-Przemys³owa
-Przepiórcza
+PrzemysÅ‚awa II
+PrzemysÅ‚owa
+PrzepiÃ³rcza
 Przeskok
 Przesmyk
 Przewiewna
-Przewóz
+PrzewÃ³z
 Przybosia
 Przybyszewskiego
 Przyjemna
@@ -1687,12 +1687,12 @@ Przylasek
 Przylaszczki
 Przymiarki
 Przyrodnicza
-Przysz³oœci
+PrzyszÅ‚oÅ›ci
 Przyzby
 Przy Cegielni
-Przy KuŸni
-Przy M³ynówce
-Przy Moœcie
+Przy KuÅºni
+Przy MÅ‚ynÃ³wce
+Przy MoÅ›cie
 Przy Rondzie
 Przy Torze
 Pszczelna
@@ -1702,61 +1702,61 @@ Ptaka
 Ptasia
 Ptaszyckiego
 Puchalskiego
-Pu³askiego
+PuÅ‚askiego
 Pustelnia
 Pustynna
-Puszczyków
+PuszczykÃ³w
 Puszkarska
-Pu¿aka
+PuÅ¼aka
 Pychowicka
 Pyjasa
 Pylna
 Pysocice
-Pysoñce
-Pytlasiñskiego
-Rabczañska
-Rabsztyñska
+PysoÅ„ce
+PytlasiÅ„skiego
+RabczaÅ„ska
+RabsztyÅ„ska
 Raciborska
 Raciborskiego
-Rac³awicka
+RacÅ‚awicka
 Raczkiewicza
-R¹czna
-Rad³owa
+RÄ…czna
+RadÅ‚owa
 Radnickiego
 Radomska
 Radosna
-Radwañskiego
+RadwaÅ„skiego
 Radzikowskiego
-Radziwi³³owska
+RadziwiÅ‚Å‚owska
 Rajska
 Rakowicka
-Rakuœ
+RakuÅ›
 Ratajska
 Ratajskiego
 Rdzawa
-Redemptorystów
+RedemptorystÃ³w
 Reduta
-Rêdzina
+RÄ™dzina
 Reformacka
 Reja
 Rejtana
-Rêkawka
+RÄ™kawka
 Republiki Korczakowskiej
 Retoryka
 Reymana
 Reymonta
 Rezedowa
-Ripperów
+RipperÃ³w
 Robla
 Robotnicza
 Rodakowskiego
 Rodzinna
-Rodziny Jêdów
+Rodziny JÄ™dÃ³w
 Rogalskiego
 Rogatka
-Rogoziñskiego
+RogoziÅ„skiego
 Roi
-Rokitniañska
+RokitniaÅ„ska
 Rokosza
 Rollego
 Rolna
@@ -1764,9 +1764,9 @@ Rolnicza
 Romanowicza
 Romera
 Rondo Barei
-Rondo Czy¿yñskie
+Rondo CzyÅ¼yÅ„skie
 Rondo Grunwaldzkie
-Rondo Grzegórzeckie
+Rondo GrzegÃ³rzeckie
 Rondo Hipokratesa
 Rondo Kocmyrzowskie
 Rondo Maczka
@@ -1775,72 +1775,72 @@ Rondo Mogilskie
 Rondo Ofiar Katynia
 Rondo Polsad
 Rosista
-Rostafiñskiego
+RostafiÅ„skiego
 Rostworowskiego
 Rowida
-Równa
-Ró¿ana
-Rozdro¿e
-Ro¿ena
+RÃ³wna
+RÃ³Å¼ana
+RozdroÅ¼e
+RoÅ¼ena
 Rozmarynowa
 Rozrywka
-Ró¿yckiego
+RÃ³Å¼yckiego
 Ruciana
 Ruczaj
 Rudni
 Rumiankowa
-Rusa³ek
+RusaÅ‚ek
 Rusiecka
 Rusznikarska
 Rusznikarska-Deptak
 Rutkowskiego
 Rybaki
-Ryba³towska
+RybaÅ‚towska
 Rybianka
 Rybitwy
 Rybna
 Rycerska
 Rydla
-Rydlówka
+RydlÃ³wka
 Rydygiera
-Rydza-Œmig³ego
+Rydza-ÅšmigÅ‚ego
 Rygiera
 Rylskiego
 Rymanowska
 Rymarska
-Rynek Dêbnicki
-Rynek Fa³êcki
-Rynek G³ówny
+Rynek DÄ™bnicki
+Rynek FaÅ‚Ä™cki
+Rynek GÅ‚Ã³wny
 Rynek Kleparski
-Rynek Podgórski
+Rynek PodgÃ³rski
 Rysiewicza
 Rysi Stok
 Rytownicza
-R¿¹cka
+RÅ¼Ä…cka
 Rzebika
 Rzeczna
-Rzemieœlnicza
+RzemieÅ›lnicza
 Rzepakowa
 Rzepichy
 Rzeszowska
-RzeŸnicza
-Saba³y
+RzeÅºnicza
+SabaÅ‚y
 Sacharowa
 Sadka
 Sadowa
 Sadzawki
-Sajakówka
-Salezjañska
+SajakÃ³wka
+SalezjaÅ„ska
 Salwatorska
-Salwiñskiego
-Samorz¹dowa
+SalwiÅ„skiego
+SamorzÄ…dowa
 Samostrzelnika
 Samozwaniec
 Sanatoryjna
 Sandomierska
 Sanocka
 Sapalskiego
-Saperów
+SaperÃ³w
 Sarego
 Sarmacka
 Sarnie Uroczysko
@@ -1849,31 +1849,31 @@ Saska
 Sas-Zubrzyckiego
 Sawickiego
 Sawiczewskich
-Sawy-Caliñskiego
-Schönborna
+Sawy-CaliÅ„skiego
+SchÃ¶nborna
 Schulza
 Schweitzera
 Sczanieckiej
 Seiferta
-Semperitowców
-Sempo³owskiej
+SemperitowcÃ³w
+SempoÅ‚owskiej
 Senacka
 Senatorska
-Seniorów Lotnictwa
+SeniorÃ³w Lotnictwa
 Serbska
 Sewera
 Seweryna
 Siarczana
-Siarczanogórska
+SiarczanogÃ³rska
 Siarczki
-Sidziñska
+SidziÅ„ska
 Siedleckiego
-Siejówka
+SiejÃ³wka
 Sielska
 Siemienowicza
-Siemieñskiego
+SiemieÅ„skiego
 Siemiradzkiego
-Siemomys³a
+SiemomysÅ‚a
 Sienkiewicza
 Sienna
 Sieroszewskiego
@@ -1885,37 +1885,37 @@ Siostry Zimmer
 Siostrzana
 Sitowiny
 Siwka
-Ska³eczna
+SkaÅ‚eczna
 Skalica
 Skalna
-Skarbiñskiego
+SkarbiÅ„skiego
 Skarbowa
-Skar¿yñskiego
-Skawiñska
+SkarÅ¼yÅ„skiego
+SkawiÅ„ska
 Skibowa
-Sk³adowa
-Sk³odowskiej-Curie
+SkÅ‚adowa
+SkÅ‚odowskiej-Curie
 Skoczylasa
-Sko³czanka
-Skoœna
+SkoÅ‚czanka
+SkoÅ›na
 Skotnica
 Skotnicka
 Skowronia
 Skrajna
-Skrêcona
+SkrÄ™cona
 Skromna
-Skrzatów
+SkrzatÃ³w
 Skrzetuskiego
 Skwerowa
-Skwer II Korpusu Si³ Zbrojnych NA
-Skwer im. WiêŸniów Obozów Zag³ady
-Skwer Pamiêci Polaków Poszkodowanych
-Smêtna
+Skwer II Korpusu SiÅ‚ Zbrojnych NA
+Skwer im. WiÄ™ÅºniÃ³w ObozÃ³w ZagÅ‚ady
+Skwer PamiÄ™ci PolakÃ³w Poszkodowanych
+SmÄ™tna
 Smocza
 Smolarzy
 Smolenia
-Smoleñsk
-Smoleñskiego
+SmoleÅ„sk
+SmoleÅ„skiego
 Smolki
 Smolna
 Smoluchowskiego
@@ -1923,38 +1923,38 @@ Snozy
 Snycerska
 Sobesto
 Soboniowicka
-Sobótka
+SobÃ³tka
 Soczyny
 Sodowa
 Sokola
-Soko³owskiego
+SokoÅ‚owskiego
 Sokolska
 Solarzy
 Solna
-Solówki
+SolÃ³wki
 Solskiego
-So³tyka
-So³tysowska
+SoÅ‚tyka
+SoÅ‚tysowska
 Solvaya
 Soroki
 Sosnkowskiego
 Sosnowiecka
 Sowia
-Sowiñskiego
+SowiÅ„skiego
 Spacerowa
 Spadochroniarzy
 Spasowskiego
 Spiczakowa
 Spiska
-Spi¿owa
-Sp³awy
+SpiÅ¼owa
+SpÅ‚awy
 Spokojna
-Spó³dzielców
+SpÃ³Å‚dzielcÃ³w
 Sporna
 Sportowa
 Spychalskiego
 Spytka z Melsztyna
-Srebrnych Or³ów
+Srebrnych OrÅ‚Ã³w
 Srzednickiego
 Stachiewicza
 Stachowicza
@@ -1962,20 +1962,20 @@ Stacyjna
 Stadionowa
 Staffa
 Stalowa
-Stañczyka
-Stanis³awa ze Skalbmierza
-Stanis³awskiego
+StaÅ„czyka
+StanisÅ‚awa ze Skalbmierza
+StanisÅ‚awskiego
 Starca
-Starego Dêbu
+Starego DÄ™bu
 Starego Wiarusa
-Stare Wiœlisko
+Stare WiÅ›lisko
 Staromostowa
 Starowiejska
-Starowiœlna
+StarowiÅ›lna
 Starowolska
 Startowa
-Stary Goœciniec
-Starzyñskiego
+Stary GoÅ›ciniec
+StarzyÅ„skiego
 Staszczyka
 Staszica
 Stattlera
@@ -1985,11 +1985,11 @@ Stawowa
 Stefana Batorego
 Stefczyka
 Stella-Sawickiego
-Stelmachów
+StelmachÃ³w
 Stepowa
-Stoczniowców
+StoczniowcÃ³w
 Stoigniewa
-Stoja³owskiego
+StojaÅ‚owskiego
 Stokowa
 Stokrotek
 Stolarska
@@ -1998,4 +1998,4 @@ Stopki
 Storczykowa
 Stradomska
 Straszewskiego
-Stra¿acka
+StraÅ¼acka
