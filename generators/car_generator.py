@@ -12,9 +12,9 @@ class Car_Generator:
 		self.cities = ["KR", "WA", "TK", "EL", "GD", "OL"]
 		shuffle(self.data)
 		
-	def get_car(self, current_street_list):
+	def get_car(self):
 		for name in self.data:
-			yield car.Car(driver = name, position = choice(current_street_list), plate = self.get_plate())
+			yield car.Car(driver = name, position = None, plate = self.get_plate())
 			
 	def get_plate(self):
 		return "%s %s%s%s%s%s" % (choice(self.cities), choice(range(10)), choice(range(10)), choice(range(10)), choice(range(10)), choice(range(10)))

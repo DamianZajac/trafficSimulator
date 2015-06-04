@@ -8,15 +8,15 @@ from time import sleep
 import msvcrt, types
 
 class Game(object):
-    def __init__(self, os_type="WIN32", street_number=1, car_number=0):
+    def __init__(self, os_type="WIN32", street_number=0, car_number=0):
         self.street_gen = str_gen.Street_Generator()
-        self.car_gen = car_gen.Car_Generator()
+        self.car_gen = car_gen.Car_Generator().get_car()
         self.os_type = os_type
         self.street_list = []
         self.car_list = []
         self.create_streets(street_number)
         self.create_cars(car_number)
-        self.timer = 0
+        self.timer = 1
 
     def run(self):
         if self.os_type == "WIN32":
@@ -26,8 +26,9 @@ class Game(object):
                 print "Current turn (press <ESC> to stop the testing) :", self.timer
                 self.move_cars()
                 self.check_and_switch_lights()
+                self.print_cars()
                 self.timer += 1
-                sleep(1)
+                sleep(0.001)
                 if msvcrt.kbhit():
                     if ord(msvcrt.getch()) == 27:
                         print "<ESC> press detected stopping the testing loop"
@@ -40,8 +41,6 @@ class Game(object):
             
     def move_cars(self):
         for index, car in enumerate(self.car_list):
-            if isinstance(car, types.GeneratorType):
-                break
             car.move()
             if car.did_car_move():
                 print car, " moved to ", car.get_position()
@@ -63,10 +62,16 @@ class Game(object):
             
     def create_cars(self, car_number):
         for _ in range(car_number):
-            new_car = self.car_gen.get_car(choice(self.street_list))
-            self.car_list.append(new_car)
-            self.show_car(new_car)
-            
+            try:
+                new_car = next(self.car_gen)
+                new_car.set_position(choice(self.street_list))
+                new_car.set_destination(choice(self.street_list))
+                self.car_list.append(new_car)
+                self.show_car(new_car)
+            except StopIteration:
+                print "200 cars used"
+                break
+                
     def show_car(self, car):
         """
         in the future it will show the car on the map
@@ -79,6 +84,12 @@ class Game(object):
         """
         pass
         
+    def print_cars(self):
+        if len(self.car_list) > 0:
+            self.car_list[0].print_header()
+            for car in self.car_list:
+                car.print_multi()
+    
     def set_street_list(self, street_list):
         self.street_list = street_list
 

@@ -5,6 +5,7 @@ class Car(object):
         self.driver = driver
         self.position = position
         self.plate = plate
+        self.move_count = 0
         self.destination = None
         self.came_from = None
         self.position_to_move = None
@@ -13,7 +14,7 @@ class Car(object):
         return self.driver
         
     def print_header(self):    
-        print "Driver Name\t|\tPosition\t|\tLicence Plate"
+        print "Driver Name\t|\tPosition\t|\tDestination\t|\tLicence Plate"
         return self
         
     def print_singular(self):
@@ -22,9 +23,12 @@ class Car(object):
         return self
         
     def print_multi(self):
-        print "%s\t|\t%s\t|\t%s" % (self.driver, self.position, self.plate)
+        print "%s\t|\t%s\t|\t%s\t|\t%s" % (self.driver, self.position, self.destination, self.plate)
         return self
         
+    def get_move_count(self):
+        return self.move_count
+    
     def set_position(self, street):
         self.position = street
         return self
@@ -65,6 +69,7 @@ class Car(object):
             self.position = self.position_to_move
             self.came_from = came_from_where
             self.position_to_move = None
+            self.move_count += 1
         return self
         
     def is_possible(self):

@@ -27,13 +27,13 @@ if __name__ == "__main__":
             break
     i = 0
     print "==Car generator test(using previously generated streets)=="
-    for car in CAR_GEN.get_car(STREET_LIST):
+    for car in CAR_GEN.get_car():
         CAR_LIST.append(car)
         car.print_multi()
         car.set_position(choice(STREET_LIST))
         car.set_destination(choice(STREET_LIST))
         i += 1
-        if i > 10:
+        if i > 4:
             break
     print "==Street connections tests=="
     STREET_LIST[0].set_right_both(STREET_LIST[1]).set_up_both(STREET_LIST[10])
@@ -53,5 +53,5 @@ if __name__ == "__main__":
         print street, tab
     NEW_GAME = core.game.Game()
     NEW_GAME.set_street_list(STREET_LIST)
-    NEW_GAME.set_car_list(CAR_LIST)
+    NEW_GAME.create_cars(5)
     NEW_GAME.run()
