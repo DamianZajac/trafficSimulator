@@ -13,12 +13,12 @@ import core
 from random import choice
 
 if __name__ == "__main__":
-    CAR_GEN = generators.car_generator.Car_Generator()
+    CAR_GEN = generators.car_generator.CarGenerator()
     i = 0
     CAR_LIST = []
     STREET_LIST = []
     print "==Street generator test=="
-    STREET_GEN = generators.street_generator.Street_Generator()
+    STREET_GEN = generators.street_generator.StreetGenerator()
     for STREET in STREET_GEN.get_street():
         STREET_LIST.append(STREET)
         STREET.print_multi()
@@ -55,3 +55,4 @@ if __name__ == "__main__":
     NEW_GAME.set_street_list(STREET_LIST)
     NEW_GAME.create_cars(5)
     NEW_GAME.run()
+    
