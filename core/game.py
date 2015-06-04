@@ -21,6 +21,7 @@ class Game(object):
         self.create_streets(street_number)
         self.create_cars(car_number)
         self.timer = 1
+        self.car_counter = 0
 
     def run(self):
         """
@@ -87,7 +88,7 @@ class Game(object):
                     return new_street
             except StopIteration:
                 self.street_gen = str_gen.StreetGenerator().get_street()
-                break
+                self.create_streets(1)
 
     def create_cars(self, car_number):
         """
@@ -99,14 +100,15 @@ class Game(object):
         for _ in range(car_number):
             try:
                 new_car = next(self.car_gen)
-                new_car.set_position(choice(self.street_list))
-                new_car.set_destination(choice(self.street_list))
+                new_car.position = choice(self.street_list)
+                new_car.destination = choice(self.street_list)
                 self.car_list.append(new_car)
+                self.car_counter += 1
                 if car_number == 1:
                     return new_car
             except StopIteration:
                 self.car_gen = car_gen.CarGenerator().get_car()
-                break
+                self.create_cars(1)
 
     def show_car(self, car):
         """
@@ -129,17 +131,3 @@ class Game(object):
             self.car_list[0].print_header()
             for car in self.car_list:
                 car.print_multi()
-
-    def set_street_list(self, street_list):
-        """
-        set_street_list(Street * str_list) -> void
-        sets the current street_list to a given one
-        """
-        self.street_list = street_list
-
-    def set_car_list(self, car_list):
-        """
-        set_car_list(Car * str_list) -> void
-        sets the current car_list to a given one
-        """
-        self.car_list = car_list

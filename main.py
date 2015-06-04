@@ -7,8 +7,8 @@ It's a final project for Python Course at Jagiellonian University
 """
 
 #import objects
-import generators
 #import gui
+import generators
 import core
 from random import choice
 
@@ -30,8 +30,8 @@ if __name__ == "__main__":
     for car in CAR_GEN.get_car():
         CAR_LIST.append(car)
         car.print_multi()
-        car.set_position(choice(STREET_LIST))
-        car.set_destination(choice(STREET_LIST))
+        car.position = choice(STREET_LIST)
+        car.destination = choice(STREET_LIST)
         i += 1
         if i > 4:
             break
@@ -52,7 +52,6 @@ if __name__ == "__main__":
         tab = [x for x in street.get_all() if x is not None]
         print street, tab
     NEW_GAME = core.game.Game()
-    NEW_GAME.set_street_list(STREET_LIST)
+    NEW_GAME.street_list = STREET_LIST
     NEW_GAME.create_cars(5)
     NEW_GAME.run()
-    
