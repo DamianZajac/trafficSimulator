@@ -39,13 +39,6 @@ class Car(object):
         print "%s\t|\t%s\t|\t%s\t|\t%s" % (self.driver, self.position, self.destination, self.plate)
         return self
 
-    def get_move_count(self):
-        """
-        get_move_count() -> Int
-        returns number of moves this car has already made
-        """
-        return self.move_count
-
     def set_position(self, street):
         """
         set_position(Street street) -> self
@@ -54,13 +47,6 @@ class Car(object):
         """
         self.position = street
         return self
-
-    def get_position(self):
-        """
-        get_posiiton() -> Street
-        returns its position
-        """
-        return self.position
 
     def set_destination(self, street):
         """
@@ -71,11 +57,6 @@ class Car(object):
         self.destination = street
         return self
 
-    def get_destination(self):
-        """
-        get_destination() -> Street
-        returns its destination
-        """
         return self.destination
 
     def is_at_destination(self):
@@ -84,9 +65,7 @@ class Car(object):
         returns True if its position is equal to its destination
         returns False otherwise
         """
-        if self.position == self.destination:
-            return True
-        return False
+        return self.position == self.destination
 
     def did_car_move(self):
         """
@@ -94,9 +73,7 @@ class Car(object):
         returns True if the car has moved in the last turn
         returns False otherwise
         """
-        if self.position_to_move == None:
-            return True
-        return False
+        return self.position_to_move == None
 
     def get_moves(self):
         """
@@ -136,7 +113,7 @@ class Car(object):
         return_bool = False
         if self.position.up == self.position_to_move:
             if self.position.is_crossroad() == False or \
-            self.position.get_lights().get_vertical_status():
+            self.position.traffic_lights.vertical_light:
                 direction = "down"
                 return_bool = True
                 direction = self.position
@@ -144,7 +121,7 @@ class Car(object):
                 print "Vertical lights are red, waiting for light change"
         elif self.position.right == self.position_to_move:
             if self.position.is_crossroad() == False or \
-            self.position.get_lights().get_horizontal_status():
+            self.position.traffic_lights.horizontal_light:
                 direction = "left"
                 return_bool = True
                 direction = self.position
@@ -152,7 +129,7 @@ class Car(object):
                 print "Horizontal lights are red, waiting for light change"
         elif self.position.down == self.position_to_move:
             if self.position.is_crossroad() == False or \
-            self.position.get_lights().get_vertical_status():
+            self.position.traffic_lights.vertical_light:
                 direction = "up"
                 return_bool = True
                 direction = self.position
@@ -160,7 +137,7 @@ class Car(object):
                 print "Vertical lights are red, waiting for light change"
         elif self.position.left == self.position_to_move:
             if self.position.is_crossroad() == False or \
-            self.position.get_lights().get_horizontal_status():
+            self.position.traffic_lights.horizontal_light:
                 direction = "right"
                 return_bool = True
                 direction = self.position

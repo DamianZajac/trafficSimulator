@@ -43,97 +43,51 @@ class Street(object):
         """
         return [self.up, self.right, self.down, self.left]
 
-    def get_left(self):
-        """returns street connected to the left
-        """
-        return self.left
-
-    def get_right(self):
-        """returns street connected to the right
-        """
-        return self.right
-
-    def get_up(self):
-        """returns street connected to the up
-        """
-        return self.up
-
-    def get_down(self):
-        """returns street connected to the down
-        """
-        return self.down
-
     def set_left_both(self, street_to_set):
         """sets current streets left to given one and given ones right to current street
         """
-        street_to_set.set_right(self)
-        self.set_left(street_to_set)
-        return self
-
-    def set_left(self, street_to_set):
-        """sets current streets left to given one and also checks and sets lights if needed
-        """
+        street_to_set.right = self
         self.left = street_to_set
         self.check_and_set_lights()
+        street_to_set.check_and_set_lights()
+        return self
 
     def set_right_both(self, street_to_set):
         """sets current streets right to given one and given ones left to current street
         """
-        street_to_set.set_left(self)
-        self.set_right(street_to_set)
-        return self
-
-    def set_right(self, street_to_set):
-        """sets current streets right to given one and also checks and sets lights if needed
-        """
+        street_to_set.left = self
         self.right = street_to_set
         self.check_and_set_lights()
+        street_to_set.check_and_set_lights()
+        return self
 
     def set_up_both(self, street_to_set):
         """sets current streets up to given one and given ones down to current street
         """
-        street_to_set.set_down(self)
-        self.set_up(street_to_set)
-        return self
-
-    def set_up(self, street_to_set):
-        """sets current streets up to given one and also checks and sets lights if needed
-        """
+        street_to_set.down = self
         self.up = street_to_set
         self.check_and_set_lights()
+        street_to_set.check_and_set_lights()
+        return self
 
     def set_down_both(self, street_to_set):
         """sets current streets down to given one and given ones up to current street
         """
-        street_to_set.set_up(self)
-        self.set_down(street_to_set)
-        return self
-
-    def set_down(self, street_to_set):
-        """sets current streets down to given one and also checks and sets lights if needed
-        """
+        street_to_set.up = self
         self.down = street_to_set
         self.check_and_set_lights()
+        street_to_set.check_and_set_lights()
+        return self
 
     def check_and_set_lights(self):
         """checks whether current road is connected to more than 2 streets and if the answer is yes
         setups new lights for current Street
         """
-        if len([street for street in self.get_all if street is not None]) > 2:
+        if len([street for street in self.get_all() if street is not None]) > 2:
             self.traffic_lights = TrLight.TrafficLight(street_parent=self)
-
-    def get_lights(self):
-        """return Streets TrafficLight
-        """
-        if self.traffic_lights == None:
-            print(self, "This is not a crossroad, hence no lights to return!")
-        return self.traffic_lights
 
     def is_crossroad(self):
         """returns True if Street has TrafficLight
         returns False otherwise
         """
-        if self.traffic_lights == None:
-            return False
-        else:
-            return True
+        return self.traffic_lights != None

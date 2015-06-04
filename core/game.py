@@ -37,7 +37,7 @@ class Game(object):
                 self.check_and_switch_lights()
                 self.print_cars()
                 self.timer += 1
-                sleep(1)
+                sleep(0.0001)
                 if msvcrt.kbhit():
                     if ord(msvcrt.getch()) == 27:
                         print "<ESC> press detected stopping the testing loop"
@@ -56,7 +56,7 @@ class Game(object):
         for index, car in enumerate(self.car_list):
             car.move()
             if car.did_car_move():
-                print car, " moved to ", car.get_position()
+                print car, " moved to ", car.position
             if car.is_at_destination():
                 print car, " reached his destination, removing him from the \
                     car list and adding a new driver"
@@ -71,7 +71,7 @@ class Game(object):
         """
         for street in self.street_list:
             if street.is_crossroad():
-                street.get_lights().switch_lights(self.timer)
+                street.traffic_lights.switch_lights(self.timer)
 
     def create_streets(self, street_number):
         """

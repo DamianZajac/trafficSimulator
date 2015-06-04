@@ -22,7 +22,8 @@ class TrafficLight(object):
         self.switch_delay_vertical = switch_delay_vertical
 
     def __repr__(self):
-        return "Lights on", self.street_parent, "street"
+        return "Lights on", self.street_parent, "street :\nHorizontal:", \
+        self.horizontal_light, " Vertical:", self.vertical_light
 
     def print_header(self):
         """prints header of TrafficLight object with names of data its print_multi method prints
@@ -57,26 +58,6 @@ class TrafficLight(object):
                 self.horizontal_light = TrafficLight.RED
                 self.vertical_light = TrafficLight.GREEN
         return self
-
-    def get_horizontal_status(self):
-        """returns status of horizontal light
-        """
-        return self.horizontal_light
-
-    def get_vertical_status(self):
-        """returns status of vertical light
-        """
-        return self.vertical_light
-
-    def get_delay_horizontal(self):
-        """returns delay of horizontal light
-        """
-        return self.switch_delay_horizontal
-
-    def get_delay_vertical(self):
-        """returns delay of vertical light
-        """
-        return self.switch_delay_vertical
 
     def set_delay_horizontal(self, switch_delay):
         """sets delay of horizontal light
