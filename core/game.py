@@ -3,6 +3,7 @@ Game class - all control of real time events is being done in this class
 it decides on objects creation, time control, GFX, everything
 """
 from generators import street_generator as str_gen, car_generator as car_gen
+from core import settings as settings
 from random import choice
 from time import sleep
 import msvcrt
@@ -12,23 +13,25 @@ class Game(object):
     Game - class controlling whole app
     real time events, objects creation, GFX
     """
-    def __init__(self, os_type="WIN32", street_number=0, car_number=0):
+    def __init__(self, settings=settings.Settings(), street_number=0, car_number=0):
         self.street_gen = str_gen.StreetGenerator().get_street()
         self.car_gen = car_gen.CarGenerator().get_car()
-        self.os_type = os_type
         self.street_list = []
         self.car_list = []
         self.create_streets(street_number)
         self.create_cars(car_number)
         self.timer = 1
         self.car_counter = 0
+        self.car_limit = 200
+        self.car_stats = []
+        self.settings = settings
 
     def run(self):
         """
         run() -> void
         runs the live-application
         """
-        if self.os_type == "WIN32":
+        if self.settings['os'] == "WIN32":
             loop_bool = True
             print "Starting the whole thing with %s streets and %s cars" % \
             (len(self.street_list), len(self.car_list))
@@ -37,17 +40,18 @@ class Game(object):
                 self.move_cars()
                 self.check_and_switch_lights()
                 self.print_cars()
-                self.timer += 1
+                self.timer += self.settings['timer']
                 sleep(0.0001)
                 if msvcrt.kbhit():
                     if ord(msvcrt.getch()) == 27:
                         print "<ESC> press detected stopping the testing loop"
                         loop_bool = False
-                if self.car_list == []:
+                if self.car_list == [] or self.car_counter >= self.car_limit:
                     print "200 cars reached their destination, stopping the simulation"
                     loop_bool = False
         else:
             pass
+        self.show_stats()
 
     def move_cars(self):
         """
@@ -55,14 +59,34 @@ class Game(object):
         moves all cars with currently used way of moving
         """
         for index, car in enumerate(self.car_list):
-            car.move()
+            if self.settings['move_type'] == 'normal':
+                car.fastest_move()
+            elif self.settings['move_type'] == 'zombie':
+                car.zombie_move()
+            else:
+                car.move()
             if car.did_car_move():
                 print car, " moved to ", car.position
             if car.is_at_destination():
                 print car, " reached his destination, removing him from the \
                     car list and adding a new driver"
+                self.remove_and_add_car(index, car)
                 del self.car_list[index]
                 self.create_cars(1)
+
+    def remove_and_add_car(self, index, car):
+        """removes and adds a car to the car list
+        also calls function to add stats about car movements
+        """
+        del self.car_list[index]
+        self.create_cars(1)
+        self.get_stats(car)
+        car.position.remove_car(car)
+
+    def get_stats(self, car):
+        """gets stats from car object to local list
+        """
+        self.car_stats.append([car.move_count, car.timer_count])
 
     def check_and_switch_lights(self):
         """
@@ -101,6 +125,7 @@ class Game(object):
             try:
                 new_car = next(self.car_gen)
                 new_car.position = choice(self.street_list)
+                new_car.position.add_car(new_car)
                 new_car.destination = choice(self.street_list)
                 self.car_list.append(new_car)
                 self.car_counter += 1
@@ -121,6 +146,16 @@ class Game(object):
         in the future it will show the street on the map
         """
         pass
+
+    def show_stats(self):
+        """shows car movement stats
+        """
+        sum_moves, sum_turns = 0.0, 0.0
+        for moves, turns in self.car_stats:
+            sum_moves += moves
+            sum_turns += turns
+        print "Total moves : %d\t|\tTotal turns: %d" % (sum_moves, sum_turns)
+        print "Percentage of moving : %.2f%%\t|\tPercentage of waiting : %.2f%%" % ((sum_moves / sum_turns * 100), ((sum_turns - sum_moves) / sum_turns * 100))
 
     def print_cars(self):
         """

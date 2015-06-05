@@ -16,6 +16,7 @@ class Car(object):
         self.position = position
         self.plate = plate
         self.move_count = 0
+        self.timer_count = 0
         self.destination = None
         self.came_from = None
         self.position_to_move = None
@@ -37,24 +38,6 @@ class Car(object):
         prints data about the car
         """
         print "%s\t|\t%s\t|\t%s\t|\t%s" % (self.driver, self.position, self.destination, self.plate)
-        return self
-
-    def set_position(self, street):
-        """
-        set_position(Street street) -> self
-        sets position to given "street"
-        return itself
-        """
-        self.position = street
-        return self
-
-    def set_destination(self, street):
-        """
-        set_destination(Street street) -> self
-        sets destination to given "street"
-        returns itself
-        """
-        self.destination = street
         return self
 
     def is_at_destination(self):
@@ -83,8 +66,10 @@ class Car(object):
     def move(self):
         """
         move() -> self
-        makes the car move
+        makes the car move in a random direction
+        doesn't change mind of direction taken
         """
+        self.timer_count += 1
         possible_moves = self.get_moves()
         if self.position_to_move == None or self.position_to_move not in possible_moves:
             possible_moves = [street for street in possible_moves \
@@ -95,11 +80,24 @@ class Car(object):
                 self.position_to_move = choice(possible_moves)
         (came_from_where, check) = self.is_possible()
         if check:
+            self.position.remove_car(self)
             self.position = self.position_to_move
+            self.position.add_car(self)
             self.came_from = came_from_where
             self.position_to_move = None
             self.move_count += 1
         return self
+
+    def zombie_move(self):
+        """makes the car move in a "zombie" way as in super random every turn, can (and propably will) backtrack in its own steps a lot
+        """
+        self.position_to_move = choice([street for street in self.get_moves() if street is not None])
+        return self.move()
+
+    def fastest_move(self):
+        """
+        """
+        pass
 
     def is_possible(self):
         """

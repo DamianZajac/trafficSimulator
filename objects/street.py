@@ -20,6 +20,7 @@ class Street(object):
         (self.left, self.right, self.up, self.down) = directions
         # pylint: enable=C0103
         self.traffic_lights = None
+        self.car_list = []
     # pylint: enable=W0102
 
     def print_header(self):
@@ -91,3 +92,17 @@ class Street(object):
         returns False otherwise
         """
         return self.traffic_lights != None
+
+    def remove_car(self, car):
+        """removes car from car_list
+        returns self
+        """
+        self.car_list.remove(car)
+        return self
+
+    def add_car(self, car):
+        """adds a car to car_list
+        returns self
+        """
+        self.car_list.append(car)
+        return self
