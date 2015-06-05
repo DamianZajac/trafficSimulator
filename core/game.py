@@ -13,7 +13,7 @@ class Game(object):
     Game - class controlling whole app
     real time events, objects creation, GFX
     """
-    def __init__(self, settings=settings.Settings(), street_number=0, car_number=0):
+    def __init__(self, settings_init=settings.Settings(), street_number=0, car_number=0):
         self.street_gen = str_gen.StreetGenerator().get_street()
         self.car_gen = car_gen.CarGenerator().get_car()
         self.street_list = []
@@ -21,10 +21,8 @@ class Game(object):
         self.create_streets(street_number)
         self.create_cars(car_number)
         self.timer = 1
-        self.car_counter = 0
-        self.car_limit = 200
         self.car_stats = []
-        self.settings = settings
+        self.settings = settings_init
 
     def run(self):
         """
@@ -46,7 +44,8 @@ class Game(object):
                     if ord(msvcrt.getch()) == 27:
                         print "<ESC> press detected stopping the testing loop"
                         loop_bool = False
-                if self.car_list == [] or self.car_counter >= self.car_limit:
+                if self.car_list == [] or \
+                  self.settings['car_counter'] >= self.settings['car_limit']:
                     print "200 cars reached their destination, stopping the simulation"
                     loop_bool = False
         else:
@@ -86,7 +85,7 @@ class Game(object):
     def get_stats(self, car):
         """gets stats from car object to local list
         """
-        self.car_stats.append([car.move_count, car.timer_count])
+        self.car_stats.append(car.counters)
 
     def check_and_switch_lights(self):
         """
@@ -128,7 +127,7 @@ class Game(object):
                 new_car.position.add_car(new_car)
                 new_car.destination = choice(self.street_list)
                 self.car_list.append(new_car)
-                self.car_counter += 1
+                self.settings['car_counter'] += 1
                 if car_number == 1:
                     return new_car
             except StopIteration:
@@ -155,7 +154,8 @@ class Game(object):
             sum_moves += moves
             sum_turns += turns
         print "Total moves : %d\t|\tTotal turns: %d" % (sum_moves, sum_turns)
-        print "Percentage of moving : %.2f%%\t|\tPercentage of waiting : %.2f%%" % ((sum_moves / sum_turns * 100), ((sum_turns - sum_moves) / sum_turns * 100))
+        print "Percentage of moving : %.2f%%\t|\tPercentage of waiting : %.2f%%" % \
+          ((sum_moves / sum_turns * 100), ((sum_turns - sum_moves) / sum_turns * 100))
 
     def print_cars(self):
         """

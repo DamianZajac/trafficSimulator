@@ -14,8 +14,7 @@ class Street(object):
     """
     # pylint: disable=W0102
     def __init__(self, street_name, street_number, directions=[None, None, None, None]):
-        self.street_name = street_name
-        self.street_number = street_number
+        self.street_name = street_name + street_number
         # pylint: disable=C0103
         (self.left, self.right, self.up, self.down) = directions
         # pylint: enable=C0103
@@ -26,18 +25,18 @@ class Street(object):
     def print_header(self):
         """prints header for table print of Street objects
         """
-        print "Street Name\t|\tStreet Number\t|\tLeft\t|\tRight\t|\tUp\t|\tDown"
+        print "Street Name and Number\t|\tLeft\t|\tRight\t|\tUp\t|\tDown"
         return self
 
     def print_multi(self):
         """prints all the data of Street object
         """
-        print "%s\t|\t%s\t|\t%s\t|\t%s\t|\t%s\t|\t%s" % \
-        (self.street_name, self.street_number, self.left, self.right, self.up, self.down)
+        print "%s\t|\t%s\t|\t%s\t|\t%s\t|\t%s" % \
+        (self.street_name, self.left, self.right, self.up, self.down)
         return self
 
     def __repr__(self):
-        return "%s %s" % (self.street_name, self.street_number)
+        return "%s %d" % (self.street_name, len(self.car_list))
 
     def get_all(self):
         """returns a table of all connected streets

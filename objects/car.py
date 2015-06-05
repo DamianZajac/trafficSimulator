@@ -15,8 +15,7 @@ class Car(object):
         self.driver = driver
         self.position = position
         self.plate = plate
-        self.move_count = 0
-        self.timer_count = 0
+        self.counters = [0, 0]
         self.destination = None
         self.came_from = None
         self.position_to_move = None
@@ -69,7 +68,7 @@ class Car(object):
         makes the car move in a random direction
         doesn't change mind of direction taken
         """
-        self.timer_count += 1
+        self.counters[1] += 1
         possible_moves = self.get_moves()
         if self.position_to_move == None or self.position_to_move not in possible_moves:
             possible_moves = [street for street in possible_moves \
@@ -85,17 +84,18 @@ class Car(object):
             self.position.add_car(self)
             self.came_from = came_from_where
             self.position_to_move = None
-            self.move_count += 1
+            self.counters[0] += 1
         return self
 
     def zombie_move(self):
-        """makes the car move in a "zombie" way as in super random every turn, can (and propably will) backtrack in its own steps a lot
+        """makes the car move in a "zombie" way as in super random every turn
+        can (and propably will) backtrack in its own steps a lot
         """
-        self.position_to_move = choice([street for street in self.get_moves() if street is not None])
+        self.position_to_move = choice([s for s in self.get_moves() if s is not None])
         return self.move()
 
     def fastest_move(self):
-        """
+        """makes the car move in a shortest way possible
         """
         pass
 
