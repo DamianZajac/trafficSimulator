@@ -57,8 +57,6 @@ class Car(object):
         self.destination = street
         return self
 
-        return self.destination
-
     def is_at_destination(self):
         """
         is_at_destination() -> Bool
