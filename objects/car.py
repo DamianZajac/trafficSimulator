@@ -97,7 +97,7 @@ class Car(object):
     def fastest_move(self):
         """makes the car move in a shortest way possible
         """
-        pass
+        return self.move()
 
     def is_possible(self):
         """

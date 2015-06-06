@@ -81,6 +81,7 @@ class Game(object):
         self.create_cars(1)
         self.get_stats(car)
         car.position.remove_car(car)
+        self.settings['car_counter'] += 1
 
     def get_stats(self, car):
         """gets stats from car object to local list
