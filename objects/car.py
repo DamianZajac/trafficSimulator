@@ -5,8 +5,7 @@ contains Car class implementation
 # -*- coding: utf-8 -*-
 from random import choice
 from copy import copy
-from itertools import chain
-from time import sleep
+#from time import sleep
 
 class Car(object):
     """
@@ -15,16 +14,14 @@ class Car(object):
     it has a driver name and plates
     it has a position (Street) and a final destination (Street)
     """
-    def __init__(self, driver, position, plate):
+    def __init__(self, driver, position):
         self.driver = driver
         self.position = position
-        self.plate = plate
         self.counters = [0, 0]
         self.destination = None
         self.came_from = None
-        self.position_to_move = None       
+        self.position_to_move = None
         self.directions_to_move = []
-        self.found = False
 
     def __repr__(self):
         return self.driver
@@ -34,7 +31,7 @@ class Car(object):
         print_header() -> void
         prints header for print table
         """
-        print "Driver Name\t|\tPosition\t|\tDestination\t|\tLicence Plate"
+        print "Driver Name\t|\tPosition\t|\tDestination\t|\tMoves Turns"
         return self
 
     def print_multi(self):
@@ -42,7 +39,8 @@ class Car(object):
         print_multi() -> void
         prints data about the car
         """
-        print "%s\t|\t%s\t|\t%s\t|\t%s" % (self.driver, self.position, self.destination, self.plate)
+        print "%s\t|\t%s\t|\t%s\t|\t%d %d" % \
+            (self.driver, self.position, self.destination, self.counters[0], self.counters[1])
         return self
 
     def is_at_destination(self):
@@ -76,7 +74,6 @@ class Car(object):
         """
         self.counters[1] += 1
         possible_moves = self.get_moves()
-        before_pos = self.position_to_move
         if self.position_to_move == None or self.position_to_move not in possible_moves:
             possible_moves = [street for street in possible_moves \
                 if street is not None and street != self.came_from]
@@ -106,50 +103,35 @@ class Car(object):
         """
         if self.directions_to_move == []:
             lst = self.find_destination_path(self.position, [], {})
-            lst = self.remove_brackets(lst)
+            lst = remove_brackets(lst)
             self.directions_to_move = lst
-            if type(self.directions_to_move) is list:
+            if isinstance(self.directions_to_move, list):
                 del self.directions_to_move[0]
-        if self.position_to_move == None and self.position != self.destination and self.directions_to_move != None:
+        if self.position_to_move == None and self.position != self.destination \
+            and self.directions_to_move != None:
             self.position_to_move = self.directions_to_move[0]
             del self.directions_to_move[0]
         return self.move()
 
-    def remove_brackets(self, lst):
-        """simple function that just gets the proper list from lists of lists of .... lists
-        for example from
-        [[[[[["co"]]]]]]
-        it gets
-        ["co"]
-        """
-        if type(lst) != list:
-            return lst
-        bool_check = True
-        while bool_check:
-            if type(lst[0]) != list:
-                return lst
-            else:
-                lst = lst[0]
-        
     def find_destination_path(self, street, lst, visited_dict):
         """simple BFS-sort of algorithm for finding shortest path to destination
         """
         new_lst = copy(lst)
-        if street == None or street in visited_dict or self.found:
+        if street == None or street in visited_dict:
             return None
         visited_dict[street] = True
         new_lst.append(street)
         if self.destination == street:
-            self.found = True
             return new_lst
         go_left = self.find_destination_path(street.left, new_lst, visited_dict)
         go_right = self.find_destination_path(street.right, new_lst, visited_dict)
         go_up = self.find_destination_path(street.up, new_lst, visited_dict)
         go_down = self.find_destination_path(street.down, new_lst, visited_dict)
-        direction_array = [dir for dir in [go_left, go_right, go_up, go_down] if dir is not None]
+        direction_array = [path_to_go for path_to_go in [go_left, go_right, go_up, go_down] \
+            if path_to_go is not None]
         if direction_array != []:
             return direction_array
-        
+
     def is_possible(self):
         """
         is_possible() -> (Street, Boolean)
@@ -191,3 +173,19 @@ class Car(object):
             else:
                 print "Horizontal lights are red, waiting for light change"
         return (direction, return_bool)
+
+def remove_brackets(lst):
+    """simple function that just gets the proper list from lists of lists of .... lists
+    for example from
+    [[[[[["co"]]]]]]
+    it gets
+    ["co"]
+    """
+    if not isinstance(lst, list):
+        return lst
+    bool_check = True
+    while bool_check:
+        if not isinstance(lst[0], list):
+            return lst
+        else:
+            lst = lst[0]
