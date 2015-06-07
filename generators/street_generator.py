@@ -25,7 +25,7 @@ class StreetGenerator(object):
         yields a new street with unique street_name and number
         """
         for street_name in self.data:
-            yield street.Street(street_name, choice(range(100)) + 1)
+            yield street.Street(street_name.strip(), choice(range(100)) + 1)
 
     def data_length(self):
         """

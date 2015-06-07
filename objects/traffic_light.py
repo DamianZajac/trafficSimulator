@@ -14,7 +14,7 @@ class TrafficLight(object):
     GREEN = True
     RED = False
 
-    def __init__(self, street_parent, switch_delay_horizontal=10, switch_delay_vertical=10):
+    def __init__(self, street_parent, switch_delay_horizontal=5, switch_delay_vertical=5):
         self.street_parent = street_parent
         self.horizontal_light = TrafficLight.GREEN
         self.vertical_light = TrafficLight.RED

@@ -14,7 +14,7 @@ class Street(object):
     """
     # pylint: disable=W0102
     def __init__(self, street_name, street_number, directions=[None, None, None, None]):
-        self.street_name = street_name + str(street_number)
+        self.street_name = "%s %s" % (street_name, str(street_number))
         # pylint: disable=C0103
         (self.left, self.right, self.up, self.down) = directions
         # pylint: enable=C0103

@@ -26,7 +26,7 @@ class CarGenerator(object):
         (default : names_list.txt)
         """
         for name in self.data:
-            yield car.Car(driver=name, position=None, plate=self.get_plate())
+            yield car.Car(driver=name.strip(), position=None, plate=self.get_plate())
 
     def get_plate(self):
         """

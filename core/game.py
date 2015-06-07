@@ -154,7 +154,7 @@ class Game(object):
         for moves, turns in self.car_stats:
             sum_moves += moves
             sum_turns += turns
-        print "Total moves : %d\t|\tTotal turns: %d" % (sum_moves, sum_turns)
+        print "Total moves for all cars: %d\t|\tTotal turns for all cars: %d\t|\tTurns elapsed : %d" % (sum_moves, sum_turns, self.timer)
         print "Percentage of moving : %.2f%%\t|\tPercentage of waiting : %.2f%%" % \
           ((sum_moves / sum_turns * 100), ((sum_turns - sum_moves) / sum_turns * 100))
 
